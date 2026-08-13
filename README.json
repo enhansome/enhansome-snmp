@@ -1,0 +1,690 @@
+{
+  "items": [
+    {
+      "description": "Helpful to write SNMP applications.",
+      "items": [],
+      "title": "Libraries"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "C# SNMP Library",
+          "description": "MIT licensed SNMP library for .NET with extensive SNMP standard support, latest .NET platform targets, as well as rich manager/agent samples.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-05-16T22:15:36Z",
+            "owner": "lextudio",
+            "repo": "sharpsnmplib",
+            "stars": 403
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SnmpSharpNet",
+          "description": "Simple Network Management Protocol (SNMP) .Net library written in C# (csharp). Implements protocol version 1, 2 and 3.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-01-25T03:08:21Z",
+            "owner": "rqx110",
+            "repo": "SnmpSharpNet",
+            "stars": 84
+          }
+        }
+      ],
+      "title": "C#"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "gosnmp/gosnmp",
+          "description": "An SNMP library written in Go. It provides Get, GetNext, GetBulk, Walk, BulkWalk, Set and Traps. It supports IPv4/IPv6, using SNMP v1/v2c/v3.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-01T21:18:06Z",
+            "owner": "gosnmp",
+            "repo": "gosnmp",
+            "stars": 1254
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sleepinggenius2/gosmi",
+          "description": "MIB parser in Go language.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2024-04-24T14:46:17Z",
+            "owner": "sleepinggenius2",
+            "repo": "gosmi",
+            "stars": 115
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "posteo/go-agentx",
+          "description": "A library with a pure Go implementation of the AgentX-Protocol.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2025-08-28T14:05:40Z",
+            "owner": "posteo",
+            "repo": "go-agentx",
+            "stars": 69
+          }
+        }
+      ],
+      "title": "Go"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "node-snmp-native",
+          "description": "Native JavaScript SNMP library for Node.js.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2020-06-03T16:06:44Z",
+            "owner": "calmh",
+            "repo": "node-snmp-native",
+            "stars": 255
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "node-net-snmp",
+          "description": "JavaScript implementation of the Simple Network Management Protocol (SNMP), implements versions 1, 2c and 3.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-06-30T19:56:10Z",
+            "owner": "markabrahams",
+            "repo": "node-net-snmp",
+            "stars": 233
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "node-snmpjs",
+          "description": "This package provides a toolkit for SNMP agents and management applications in Node.js.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-02-28T17:00:41Z",
+            "owner": "TritonDataCenter",
+            "repo": "node-snmpjs",
+            "stars": 113
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "snmp-node",
+          "description": "Native JavaScript SNMP library for Node.js.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-02-09T10:01:41Z",
+            "owner": "neias",
+            "repo": "snmp-node",
+            "stars": 4
+          }
+        }
+      ],
+      "title": "JavaScript"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "opensolutions/OSS_SNMP",
+          "description": "A PHP SNMP library for people who hate SNMP, MIBs and OIDs!",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-02-11T21:23:44Z",
+            "owner": "opensolutions",
+            "repo": "OSS_SNMP",
+            "stars": 109
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FreeDSx/SNMP",
+          "description": "A Pure PHP SNMP Library.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-05-24T16:28:48Z",
+            "owner": "FreeDSx",
+            "repo": "SNMP",
+            "stars": 67
+          }
+        }
+      ],
+      "title": "PHP"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Scapy",
+          "description": "Packet manipulation program & library. Scapy has a module to build/dissect SNMP packets.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-10T12:18:39Z",
+            "owner": "secdev",
+            "repo": "scapy",
+            "stars": 12466
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "easysnmp",
+          "description": "A fork of net-snmp Python bindings that attempts to bring a more Pythonic interface to the library.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C",
+            "last_commit": "2024-01-02T16:44:06Z",
+            "owner": "easysnmp",
+            "repo": "easysnmp",
+            "stars": 223
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "snimpy",
+          "description": "Snimpy is a Python-based tool providing a simple interface to build SNMP query.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-01T15:12:20Z",
+            "owner": "vincentbernat",
+            "repo": "snimpy",
+            "stars": 192
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pysnmp",
+          "description": "This is a pure-Python, open source and free implementation of v1/v2c/v3 SNMP engine distributed under 2-clause BSD license.",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "This project is derived from the original repo",
+              "description": ".",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2024-07-31T03:49:31Z",
+                "owner": "etingof",
+                "repo": "pysnmp",
+                "stars": 614
+              }
+            }
+          ],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-31T13:34:02Z",
+            "owner": "lextudio",
+            "repo": "pysnmp",
+            "stars": 158
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "puresnmp",
+          "description": "Pure Python3 SNMPv2 library without any dependencies.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-16T15:14:24Z",
+            "owner": "exhuma",
+            "repo": "puresnmp",
+            "stars": 87
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "python-netsnmpagent",
+          "description": "This package allows to write net-snmp subagents in Python.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-10-28T11:32:24Z",
+            "owner": "pief",
+            "repo": "python-netsnmpagent",
+            "stars": 68
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "aiosnmp",
+          "description": "Python package aiosnmp is an asynchronous SNMP client for use with asyncio. Only SNMP v2c is supported.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2026-07-12T12:12:09Z",
+            "owner": "hh-h",
+            "repo": "aiosnmp",
+            "stars": 54
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hnmp",
+          "description": "HNMP is a high-level Python library to ease the pain of retrieving and processing data from SNMP-capable devices such as network switches, routers, and printers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-11-28T17:29:20Z",
+            "owner": "trehn",
+            "repo": "hnmp",
+            "stars": 50
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gufo_snmp",
+          "description": "The accelerated Python SNMP client library supporting both async and synchronous mode. It consists of a clean Python API for high-efficient BER parser and socket IO, implemented in the Rust language with PyO3 wrapper. Seems to be a bit early in the project's lifecycle, but it is easy to use and extremely fast, especially when querying many devices.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-04-13T10:17:31Z",
+            "owner": "gufolabs",
+            "repo": "gufo_snmp",
+            "stars": 24
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pysmi",
+          "description": "PySMI is a pure-Python implementation of SNMP SMI MIB parser.",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "This project is derived from the original repo",
+              "description": ".",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2023-07-21T13:42:14Z",
+                "owner": "etingof",
+                "repo": "pysmi",
+                "stars": 143
+              }
+            }
+          ],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-26T21:02:25Z",
+            "owner": "lextudio",
+            "repo": "pysmi",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "robotframework-snmplibrary",
+          "description": "SNMPLibrary is a Robot Framework test library for testing SNMP.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-01-04T15:01:55Z",
+            "owner": "kontron",
+            "repo": "robotframework-snmplibrary",
+            "stars": 9
+          }
+        }
+      ],
+      "title": "Python"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "snmp-parser",
+          "description": "SNMP parser written in rust with nom parser combinator framework.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-01-19T20:31:30Z",
+            "owner": "rusticata",
+            "repo": "snmp-parser",
+            "stars": 45
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "davedufresne/modern_snmp",
+          "description": "Modern SNMP is a pure-Rust library for SNMPv3. This repository includes snmp_mp (SNMPv3 Message Processing) and snmp_usm (Implementation of the User-based Security Model (USM) for SNMPv3) crates.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2024-08-23T15:39:30Z",
+            "owner": "davedufresne",
+            "repo": "modern_snmp",
+            "stars": 33
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Svedrin/sunt",
+          "description": "This repository implements an SNMP Agent written in Rust.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2021-03-01T10:35:57Z",
+            "owner": "Svedrin",
+            "repo": "sunt",
+            "stars": 28
+          }
+        }
+      ],
+      "title": "Rust"
+    },
+    {
+      "description": "You use these to work with SNMP easier.",
+      "items": [],
+      "title": "Tools"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "prometheus/snmp_exporter",
+          "description": "This exporter is the recommended way to expose SNMP data in a format which Prometheus can ingest.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-10T19:00:21Z",
+            "owner": "prometheus",
+            "repo": "snmp_exporter",
+            "stars": 2159
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "trailofbits/onesixtyone",
+          "description": "Fast SNMP Scanner.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2025-08-30T17:18:28Z",
+            "owner": "trailofbits",
+            "repo": "onesixtyone",
+            "stars": 719
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "snmpsim",
+          "description": "This is a pure-Python, open source and free implementation of SNMP agents simulator distributed under 2-clause BSD license.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-07-24T14:18:21Z",
+            "owner": "etingof",
+            "repo": "snmpsim",
+            "stars": 455
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SECFORCE/SNMP-Brute",
+          "description": "Fast SNMP brute force, enumeration, CISCO config downloader and password cracking script.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-09-13T06:46:53Z",
+            "owner": "SECFORCE",
+            "repo": "SNMP-Brute",
+            "stars": 333
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "snmpwn",
+          "description": "SNMPwn is an SNMPv3 user enumerator and attack tool.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2020-08-23T10:41:38Z",
+            "owner": "hatlord",
+            "repo": "snmpwn",
+            "stars": 268
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hatlord/snmpwn",
+          "description": "An SNMPv3 User Enumerator and Attack tool.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2020-08-23T10:41:38Z",
+            "owner": "hatlord",
+            "repo": "snmpwn",
+            "stars": 268
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "zabbix-tools/mib2zabbix",
+          "description": "This Perl script will generate a Zabbix v3 Template in XML format from an OID tree in a SNMP MIB file.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Perl",
+            "last_commit": "2022-07-15T09:57:19Z",
+            "owner": "zabbix-tools",
+            "repo": "mib2zabbix",
+            "stars": 241
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "trapperkeeper",
+          "description": "A suite of tools for ingesting and displaying SNMP traps. This is designed as a replacement for snmptrapd and to supplement existing stateful monitoring solutions.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2018-02-08T21:16:54Z",
+            "owner": "dropbox",
+            "repo": "trapperkeeper",
+            "stars": 80
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "snmpfwd",
+          "description": "The SNMP Proxy Forwarder tool works as an application-level proxy with a built-in SNMP message router. Typical use case for an SNMP proxy is to work as an application-level firewall or a protocol translator that enables SNMPv3 access to a SNMPv1/SNMPv2c entity or vice versa.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-12-15T18:22:58Z",
+            "owner": "etingof",
+            "repo": "snmpfwd",
+            "stars": 72
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "snmpclitools",
+          "description": "This is a collection of command-line SNMP tools written in pure-Python. The tools mimic their famous Net-SNMP counterparts. It includes snmpget.py, snmpset.py, snmpwalk.py, snmpbulkwalk.py, snmptrap.py, and snmptranslate.py, see here for more details.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-11-17T04:39:22Z",
+            "owner": "etingof",
+            "repo": "snmpclitools",
+            "stars": 61
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OIDrage",
+          "description": "A lightweight standalone SNMPd mimic server based on any snmpwalk output. Easily scales to mock thousands of servers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-12-29T16:54:38Z",
+            "owner": "patrickscottbest",
+            "repo": "OIDrage",
+            "stars": 5
+          }
+        }
+      ],
+      "title": "CLIs"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "toni-moreno/snmpcollector",
+          "description": "SnmpCollector is a full featured Generic SNMP data collector with Web Administration Interface Open Source tool which has as main goal simplify the configuration for getting data from any device which snmp protocol support and send resulting data to an influxdb backend.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2023-12-18T23:01:40Z",
+            "owner": "toni-moreno",
+            "repo": "snmpcollector",
+            "stars": 307
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Visual SNMP",
+          "description": "Visual SNMP is a simple tool for testing access to SNMP agents. Currently SNMPGET and SNMPWALK are supported with some limited funcionality.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-01-17T15:04:24Z",
+            "owner": "sisraell",
+            "repo": "VisualSNMP",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TWSNMP FK",
+          "description": "An ultra-lightweight SNMP manager for Windows and Mac OS, featuring network mapping, polling, and AI analysis.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-12T11:41:20Z",
+            "owner": "twsnmp",
+            "repo": "twsnmpfk",
+            "stars": 6
+          }
+        }
+      ],
+      "title": "GUIs"
+    },
+    {
+      "description": "How-to's, tutorials, blog posts, documentation and books.",
+      "items": [],
+      "title": "Publications"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "hsnodgrass/snmp_mib_archive",
+          "description": "An archive of over 3000 unique SNMP MIBs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2018-11-06T22:37:42Z",
+            "owner": "hsnodgrass",
+            "repo": "snmp_mib_archive",
+            "stars": 186
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kcsinclair/mibs",
+          "description": "Another collection of MIBS used for SNMP. Make sure to clone the repository to see the full list of MIBs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Perl",
+            "last_commit": "2026-07-01T05:13:19Z",
+            "owner": "kcsinclair",
+            "repo": "mibs",
+            "stars": 78
+          }
+        }
+      ],
+      "title": "MIB repositories"
+    },
+    {
+      "description": "Please take a quick look at the contribution guidelines first. Thank you to all contributors.",
+      "items": [],
+      "title": "Contributing"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:04:14.364Z",
+    "original_repository": "eozer/awesome-snmp",
+    "original_repository_sha": "eecb6b92a02b310fa8a46bb12c17643fdfee7f61",
+    "enhanced_repository": "enhansome/enhansome-snmp",
+    "enhanced_repository_description": null,
+    "title": "Awesome SNMP with stars"
+  }
+}
