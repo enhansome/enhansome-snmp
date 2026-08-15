@@ -194,10 +194,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-14T10:51:23Z",
+            "last_commit": "2026-08-14T17:03:30Z",
             "owner": "secdev",
             "repo": "scapy",
-            "stars": 12469
+            "stars": 12472
           }
         },
         {
@@ -625,7 +625,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-12T11:41:20Z",
+            "last_commit": "2026-08-15T07:10:03Z",
             "owner": "twsnmp",
             "repo": "twsnmpfk",
             "stars": 6
@@ -680,7 +680,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T12:29:59.325Z",
+    "last_updated": "2026-08-15T11:59:11.760Z",
     "original_repository": "eozer/awesome-snmp",
     "original_repository_sha": "eecb6b92a02b310fa8a46bb12c17643fdfee7f61",
     "enhanced_repository": "enhansome/enhansome-snmp",
