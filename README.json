@@ -468,7 +468,7 @@
             "last_commit": "2023-07-24T14:18:21Z",
             "owner": "etingof",
             "repo": "snmpsim",
-            "stars": 455
+            "stars": 454
           }
         },
         {
@@ -680,7 +680,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T11:59:11.760Z",
+    "last_updated": "2026-08-16T12:00:10.232Z",
     "original_repository": "eozer/awesome-snmp",
     "original_repository_sha": "eecb6b92a02b310fa8a46bb12c17643fdfee7f61",
     "enhanced_repository": "enhansome/enhansome-snmp",
