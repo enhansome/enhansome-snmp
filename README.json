@@ -194,10 +194,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-16T22:10:06Z",
+            "last_commit": "2026-08-18T06:54:00Z",
             "owner": "secdev",
             "repo": "scapy",
-            "stars": 12475
+            "stars": 12474
           }
         },
         {
@@ -440,7 +440,7 @@
             "last_commit": "2026-08-10T19:00:21Z",
             "owner": "prometheus",
             "repo": "snmp_exporter",
-            "stars": 2160
+            "stars": 2161
           }
         },
         {
@@ -625,7 +625,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-15T07:10:03Z",
+            "last_commit": "2026-08-18T05:24:03Z",
             "owner": "twsnmp",
             "repo": "twsnmpfk",
             "stars": 6
@@ -680,7 +680,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T12:01:47.349Z",
+    "last_updated": "2026-08-18T12:03:40.735Z",
     "original_repository": "eozer/awesome-snmp",
     "original_repository_sha": "eecb6b92a02b310fa8a46bb12c17643fdfee7f61",
     "enhanced_repository": "enhansome/enhansome-snmp",
