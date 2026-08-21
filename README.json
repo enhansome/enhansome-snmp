@@ -17,7 +17,7 @@
                 "last_commit": "2026-05-16T22:15:36Z",
                 "owner": "lextudio",
                 "repo": "sharpsnmplib",
-                "stars": 403
+                "stars": 404
               }
             },
             {
@@ -210,7 +210,7 @@
                 "last_commit": "2026-08-18T17:11:17Z",
                 "owner": "secdev",
                 "repo": "scapy",
-                "stars": 12481
+                "stars": 12483
               }
             },
             {
@@ -268,10 +268,10 @@
                 "archived": false,
                 "id": 562745461,
                 "language": "Python",
-                "last_commit": "2026-07-31T13:34:02Z",
+                "last_commit": "2026-08-21T04:01:13Z",
                 "owner": "lextudio",
                 "repo": "pysnmp",
-                "stars": 158
+                "stars": 157
               }
             },
             {
@@ -472,7 +472,7 @@
                 "last_commit": "2026-08-19T09:18:46Z",
                 "owner": "prometheus",
                 "repo": "snmp_exporter",
-                "stars": 2162
+                "stars": 2163
               }
             },
             {
@@ -487,7 +487,7 @@
                 "last_commit": "2025-08-30T17:18:28Z",
                 "owner": "trailofbits",
                 "repo": "onesixtyone",
-                "stars": 720
+                "stars": 721
               }
             },
             {
@@ -671,10 +671,10 @@
                 "archived": false,
                 "id": 669644544,
                 "language": "Go",
-                "last_commit": "2026-08-18T05:24:03Z",
+                "last_commit": "2026-08-21T00:46:25Z",
                 "owner": "twsnmp",
                 "repo": "twsnmpfk",
-                "stars": 6
+                "stars": 7
               }
             }
           ],
@@ -723,7 +723,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T12:15:20.728Z",
+    "last_updated": "2026-08-21T12:04:42.496Z",
     "original_repository": "eozer/awesome-snmp",
     "original_repository_id": 455546220,
     "original_repository_sha": "eecb6b92a02b310fa8a46bb12c17643fdfee7f61",
