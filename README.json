@@ -96,6 +96,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "mibble",
+              "description": "Mibble is an open-source SNMP MIB (or SMI) parser library for Java.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1454368,
+                "language": "Java",
+                "last_commit": "2022-04-28T13:53:27Z",
+                "owner": "cederberg",
+                "repo": "mibble",
+                "stars": 128
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Java"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "node-snmp-native",
               "description": "Native JavaScript SNMP library for Node.js.",
               "children": [],
@@ -158,6 +180,28 @@
           "description": null,
           "node_type": "group",
           "title": "JavaScript"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "luasnmp",
+              "description": "Lua binding to net-snmp library.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 562215,
+                "language": "C",
+                "last_commit": "2024-12-13T12:00:18Z",
+                "owner": "hleuwer",
+                "repo": "luasnmp",
+                "stars": 12
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Lua"
         },
         {
           "children": [
@@ -399,6 +443,28 @@
           "description": null,
           "node_type": "group",
           "title": "Python"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "ruby-netsnmp",
+              "description": "SNMP library in ruby (v1, v2c, v3).",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 56509904,
+                "language": "Ruby",
+                "last_commit": "2024-10-28T15:10:20Z",
+                "owner": "swisscom",
+                "repo": "ruby-netsnmp",
+                "stars": 34
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Ruby"
         },
         {
           "children": [
@@ -723,7 +789,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T12:15:44.565Z",
+    "last_updated": "2026-08-24T14:35:08.940Z",
     "original_repository": "eozer/awesome-snmp",
     "original_repository_id": 455546220,
     "original_repository_sha": "eecb6b92a02b310fa8a46bb12c17643fdfee7f61",
