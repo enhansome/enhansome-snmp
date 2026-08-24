@@ -210,7 +210,7 @@
                 "last_commit": "2026-08-18T17:11:17Z",
                 "owner": "secdev",
                 "repo": "scapy",
-                "stars": 12492
+                "stars": 12494
               }
             },
             {
@@ -487,7 +487,7 @@
                 "last_commit": "2025-08-30T17:18:28Z",
                 "owner": "trailofbits",
                 "repo": "onesixtyone",
-                "stars": 720
+                "stars": 721
               }
             },
             {
@@ -502,7 +502,7 @@
                 "last_commit": "2023-07-24T14:18:21Z",
                 "owner": "etingof",
                 "repo": "snmpsim",
-                "stars": 454
+                "stars": 455
               }
             },
             {
@@ -723,7 +723,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T12:00:32.074Z",
+    "last_updated": "2026-08-24T12:15:44.565Z",
     "original_repository": "eozer/awesome-snmp",
     "original_repository_id": 455546220,
     "original_repository_sha": "eecb6b92a02b310fa8a46bb12c17643fdfee7f61",
