@@ -254,7 +254,7 @@
                 "last_commit": "2026-08-18T17:11:17Z",
                 "owner": "secdev",
                 "repo": "scapy",
-                "stars": 12494
+                "stars": 12498
               }
             },
             {
@@ -789,7 +789,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:35:08.940Z",
+    "last_updated": "2026-08-25T06:24:38.131Z",
     "original_repository": "eozer/awesome-snmp",
     "original_repository_id": 455546220,
     "original_repository_sha": "eecb6b92a02b310fa8a46bb12c17643fdfee7f61",
