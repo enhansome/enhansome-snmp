@@ -251,7 +251,7 @@
                 "archived": false,
                 "id": 43509302,
                 "language": "Python",
-                "last_commit": "2026-08-27T08:38:24Z",
+                "last_commit": "2026-08-27T20:34:24Z",
                 "owner": "secdev",
                 "repo": "scapy",
                 "stars": 12501
@@ -789,7 +789,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T12:04:11.191Z",
+    "last_updated": "2026-08-27T21:19:16.476Z",
     "original_repository_info": {
       "archived": false,
       "id": 455546220,
