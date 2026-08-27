@@ -251,7 +251,7 @@
                 "archived": false,
                 "id": 43509302,
                 "language": "Python",
-                "last_commit": "2026-08-26T07:14:32Z",
+                "last_commit": "2026-08-27T08:38:24Z",
                 "owner": "secdev",
                 "repo": "scapy",
                 "stars": 12501
@@ -538,7 +538,7 @@
                 "last_commit": "2026-08-19T09:18:46Z",
                 "owner": "prometheus",
                 "repo": "snmp_exporter",
-                "stars": 2164
+                "stars": 2165
               }
             },
             {
@@ -553,7 +553,7 @@
                 "last_commit": "2025-08-30T17:18:28Z",
                 "owner": "trailofbits",
                 "repo": "onesixtyone",
-                "stars": 721
+                "stars": 724
               }
             },
             {
@@ -737,7 +737,7 @@
                 "archived": false,
                 "id": 669644544,
                 "language": "Go",
-                "last_commit": "2026-08-21T00:46:25Z",
+                "last_commit": "2026-08-27T07:05:08Z",
                 "owner": "twsnmp",
                 "repo": "twsnmpfk",
                 "stars": 7
@@ -789,9 +789,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T12:18:13.898Z",
-    "original_repository": "eozer/awesome-snmp",
-    "original_repository_id": 455546220,
+    "last_updated": "2026-08-27T12:04:11.191Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 455546220,
+      "language": null,
+      "last_commit": "2026-03-30T11:47:03Z",
+      "owner": "eozer",
+      "repo": "awesome-snmp",
+      "stars": 192
+    },
     "original_repository_sha": "eecb6b92a02b310fa8a46bb12c17643fdfee7f61",
     "enhanced_repository": "enhansome/enhansome-snmp",
     "enhanced_repository_description": null,
