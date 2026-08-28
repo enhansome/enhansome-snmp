@@ -18,7 +18,8 @@
                 "owner": "lextudio",
                 "repo": "sharpsnmplib",
                 "stars": 404
-              }
+              },
+              "first_seen": "2026-08-28T21:32:01.588Z"
             },
             {
               "node_type": "item",
@@ -33,7 +34,8 @@
                 "owner": "rqx110",
                 "repo": "SnmpSharpNet",
                 "stars": 84
-              }
+              },
+              "first_seen": "2026-08-28T21:32:01.588Z"
             }
           ],
           "description": null,
@@ -55,7 +57,8 @@
                 "owner": "gosnmp",
                 "repo": "gosnmp",
                 "stars": 1253
-              }
+              },
+              "first_seen": "2026-08-28T21:32:01.588Z"
             },
             {
               "node_type": "item",
@@ -70,7 +73,8 @@
                 "owner": "sleepinggenius2",
                 "repo": "gosmi",
                 "stars": 115
-              }
+              },
+              "first_seen": "2026-08-28T21:32:01.588Z"
             },
             {
               "node_type": "item",
@@ -85,7 +89,8 @@
                 "owner": "posteo",
                 "repo": "go-agentx",
                 "stars": 69
-              }
+              },
+              "first_seen": "2026-08-28T21:32:01.588Z"
             }
           ],
           "description": null,
@@ -107,7 +112,8 @@
                 "owner": "cederberg",
                 "repo": "mibble",
                 "stars": 128
-              }
+              },
+              "first_seen": "2026-08-28T21:32:01.588Z"
             }
           ],
           "description": null,
@@ -129,7 +135,8 @@
                 "owner": "calmh",
                 "repo": "node-snmp-native",
                 "stars": 255
-              }
+              },
+              "first_seen": "2026-08-28T21:32:01.588Z"
             },
             {
               "node_type": "item",
@@ -144,7 +151,8 @@
                 "owner": "markabrahams",
                 "repo": "node-net-snmp",
                 "stars": 233
-              }
+              },
+              "first_seen": "2026-08-28T21:32:01.588Z"
             },
             {
               "node_type": "item",
@@ -159,7 +167,8 @@
                 "owner": "TritonDataCenter",
                 "repo": "node-snmpjs",
                 "stars": 113
-              }
+              },
+              "first_seen": "2026-08-28T21:32:01.588Z"
             },
             {
               "node_type": "item",
@@ -174,7 +183,8 @@
                 "owner": "neias",
                 "repo": "snmp-node",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T21:32:01.588Z"
             }
           ],
           "description": null,
@@ -196,7 +206,8 @@
                 "owner": "hleuwer",
                 "repo": "luasnmp",
                 "stars": 12
-              }
+              },
+              "first_seen": "2026-08-28T21:32:01.588Z"
             }
           ],
           "description": null,
@@ -218,7 +229,8 @@
                 "owner": "opensolutions",
                 "repo": "OSS_SNMP",
                 "stars": 109
-              }
+              },
+              "first_seen": "2026-08-28T21:32:01.588Z"
             },
             {
               "node_type": "item",
@@ -233,7 +245,8 @@
                 "owner": "FreeDSx",
                 "repo": "SNMP",
                 "stars": 67
-              }
+              },
+              "first_seen": "2026-08-28T21:32:01.588Z"
             }
           ],
           "description": null,
@@ -251,11 +264,12 @@
                 "archived": false,
                 "id": 43509302,
                 "language": "Python",
-                "last_commit": "2026-08-27T20:34:24Z",
+                "last_commit": "2026-08-28T15:14:55Z",
                 "owner": "secdev",
                 "repo": "scapy",
                 "stars": 12501
-              }
+              },
+              "first_seen": "2026-08-28T21:32:01.588Z"
             },
             {
               "node_type": "item",
@@ -270,7 +284,8 @@
                 "owner": "easysnmp",
                 "repo": "easysnmp",
                 "stars": 223
-              }
+              },
+              "first_seen": "2026-08-28T21:32:01.588Z"
             },
             {
               "node_type": "item",
@@ -285,7 +300,8 @@
                 "owner": "vincentbernat",
                 "repo": "snimpy",
                 "stars": 192
-              }
+              },
+              "first_seen": "2026-08-28T21:32:01.588Z"
             },
             {
               "node_type": "item",
@@ -305,7 +321,8 @@
                     "owner": "etingof",
                     "repo": "pysnmp",
                     "stars": 614
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:32:01.588Z"
                 }
               ],
               "repo_info": {
@@ -316,7 +333,8 @@
                 "owner": "lextudio",
                 "repo": "pysnmp",
                 "stars": 157
-              }
+              },
+              "first_seen": "2026-08-28T21:32:01.588Z"
             },
             {
               "node_type": "item",
@@ -331,7 +349,8 @@
                 "owner": "exhuma",
                 "repo": "puresnmp",
                 "stars": 87
-              }
+              },
+              "first_seen": "2026-08-28T21:32:01.588Z"
             },
             {
               "node_type": "item",
@@ -346,7 +365,8 @@
                 "owner": "pief",
                 "repo": "python-netsnmpagent",
                 "stars": 68
-              }
+              },
+              "first_seen": "2026-08-28T21:32:01.588Z"
             },
             {
               "node_type": "item",
@@ -361,7 +381,8 @@
                 "owner": "hh-h",
                 "repo": "aiosnmp",
                 "stars": 54
-              }
+              },
+              "first_seen": "2026-08-28T21:32:01.588Z"
             },
             {
               "node_type": "item",
@@ -376,7 +397,8 @@
                 "owner": "trehn",
                 "repo": "hnmp",
                 "stars": 50
-              }
+              },
+              "first_seen": "2026-08-28T21:32:01.588Z"
             },
             {
               "node_type": "item",
@@ -391,7 +413,8 @@
                 "owner": "gufolabs",
                 "repo": "gufo_snmp",
                 "stars": 24
-              }
+              },
+              "first_seen": "2026-08-28T21:32:01.588Z"
             },
             {
               "node_type": "item",
@@ -411,7 +434,8 @@
                     "owner": "etingof",
                     "repo": "pysmi",
                     "stars": 143
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:32:01.588Z"
                 }
               ],
               "repo_info": {
@@ -422,7 +446,8 @@
                 "owner": "lextudio",
                 "repo": "pysmi",
                 "stars": 10
-              }
+              },
+              "first_seen": "2026-08-28T21:32:01.588Z"
             },
             {
               "node_type": "item",
@@ -437,7 +462,8 @@
                 "owner": "kontron",
                 "repo": "robotframework-snmplibrary",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-28T21:32:01.588Z"
             }
           ],
           "description": null,
@@ -459,7 +485,8 @@
                 "owner": "swisscom",
                 "repo": "ruby-netsnmp",
                 "stars": 34
-              }
+              },
+              "first_seen": "2026-08-28T21:32:01.588Z"
             }
           ],
           "description": null,
@@ -481,7 +508,8 @@
                 "owner": "rusticata",
                 "repo": "snmp-parser",
                 "stars": 45
-              }
+              },
+              "first_seen": "2026-08-28T21:32:01.588Z"
             },
             {
               "node_type": "item",
@@ -496,7 +524,8 @@
                 "owner": "davedufresne",
                 "repo": "modern_snmp",
                 "stars": 33
-              }
+              },
+              "first_seen": "2026-08-28T21:32:01.588Z"
             },
             {
               "node_type": "item",
@@ -511,7 +540,8 @@
                 "owner": "Svedrin",
                 "repo": "sunt",
                 "stars": 28
-              }
+              },
+              "first_seen": "2026-08-28T21:32:01.588Z"
             }
           ],
           "description": null,
@@ -539,7 +569,8 @@
                 "owner": "prometheus",
                 "repo": "snmp_exporter",
                 "stars": 2165
-              }
+              },
+              "first_seen": "2026-08-28T21:32:01.588Z"
             },
             {
               "node_type": "item",
@@ -554,7 +585,8 @@
                 "owner": "trailofbits",
                 "repo": "onesixtyone",
                 "stars": 724
-              }
+              },
+              "first_seen": "2026-08-28T21:32:01.588Z"
             },
             {
               "node_type": "item",
@@ -569,7 +601,8 @@
                 "owner": "etingof",
                 "repo": "snmpsim",
                 "stars": 455
-              }
+              },
+              "first_seen": "2026-08-28T21:32:01.588Z"
             },
             {
               "node_type": "item",
@@ -584,7 +617,8 @@
                 "owner": "SECFORCE",
                 "repo": "SNMP-Brute",
                 "stars": 333
-              }
+              },
+              "first_seen": "2026-08-28T21:32:01.588Z"
             },
             {
               "node_type": "item",
@@ -599,7 +633,8 @@
                 "owner": "hatlord",
                 "repo": "snmpwn",
                 "stars": 269
-              }
+              },
+              "first_seen": "2026-08-28T21:32:01.588Z"
             },
             {
               "node_type": "item",
@@ -614,7 +649,8 @@
                 "owner": "hatlord",
                 "repo": "snmpwn",
                 "stars": 269
-              }
+              },
+              "first_seen": "2026-08-28T21:32:01.588Z"
             },
             {
               "node_type": "item",
@@ -629,7 +665,8 @@
                 "owner": "zabbix-tools",
                 "repo": "mib2zabbix",
                 "stars": 241
-              }
+              },
+              "first_seen": "2026-08-28T21:32:01.588Z"
             },
             {
               "node_type": "item",
@@ -644,7 +681,8 @@
                 "owner": "dropbox",
                 "repo": "trapperkeeper",
                 "stars": 80
-              }
+              },
+              "first_seen": "2026-08-28T21:32:01.588Z"
             },
             {
               "node_type": "item",
@@ -659,7 +697,8 @@
                 "owner": "etingof",
                 "repo": "snmpfwd",
                 "stars": 72
-              }
+              },
+              "first_seen": "2026-08-28T21:32:01.588Z"
             },
             {
               "node_type": "item",
@@ -674,7 +713,8 @@
                 "owner": "etingof",
                 "repo": "snmpclitools",
                 "stars": 61
-              }
+              },
+              "first_seen": "2026-08-28T21:32:01.588Z"
             },
             {
               "node_type": "item",
@@ -689,7 +729,8 @@
                 "owner": "patrickscottbest",
                 "repo": "OIDrage",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T21:32:01.588Z"
             }
           ],
           "description": null,
@@ -711,7 +752,8 @@
                 "owner": "toni-moreno",
                 "repo": "snmpcollector",
                 "stars": 306
-              }
+              },
+              "first_seen": "2026-08-28T21:32:01.588Z"
             },
             {
               "node_type": "item",
@@ -726,7 +768,8 @@
                 "owner": "sisraell",
                 "repo": "VisualSNMP",
                 "stars": 13
-              }
+              },
+              "first_seen": "2026-08-28T21:32:01.588Z"
             },
             {
               "node_type": "item",
@@ -740,8 +783,9 @@
                 "last_commit": "2026-08-27T07:05:08Z",
                 "owner": "twsnmp",
                 "repo": "twsnmpfk",
-                "stars": 7
-              }
+                "stars": 8
+              },
+              "first_seen": "2026-08-28T21:32:01.588Z"
             }
           ],
           "description": null,
@@ -767,7 +811,8 @@
             "owner": "hsnodgrass",
             "repo": "snmp_mib_archive",
             "stars": 186
-          }
+          },
+          "first_seen": "2026-08-28T21:32:01.588Z"
         },
         {
           "node_type": "item",
@@ -782,14 +827,15 @@
             "owner": "kcsinclair",
             "repo": "mibs",
             "stars": 78
-          }
+          },
+          "first_seen": "2026-08-28T21:32:01.588Z"
         }
       ],
       "title": "MIB repositories"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T21:19:16.476Z",
+    "last_updated": "2026-08-28T21:32:01.588Z",
     "original_repository_info": {
       "archived": false,
       "id": 455546220,
