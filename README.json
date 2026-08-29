@@ -846,8 +846,8 @@
                 "id": 31185891,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-19T09:18:46Z",
-                "open_issues": 104,
+                "last_commit": "2026-08-29T10:30:33Z",
+                "open_issues": 105,
                 "owner": "prometheus",
                 "repo": "snmp_exporter",
                 "stars": 2165,
@@ -1284,7 +1284,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:54:49.831Z",
+    "last_updated": "2026-08-29T15:45:41.636Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome SNMP libraries, tools, and other resources.",

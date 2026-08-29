@@ -121,7 +121,7 @@ This is a curated list of awesome SNMP libraries, tools, and other resources. Co
 
 ### CLIs
 
-* [prometheus/snmp\_exporter](https://github.com/prometheus/snmp_exporter) ⭐ 2,165 | 🐛 104 | 🌐 Go | 📅 2026-08-19 - This exporter is the recommended way to expose SNMP data in a format which Prometheus can ingest.
+* [prometheus/snmp\_exporter](https://github.com/prometheus/snmp_exporter) ⭐ 2,165 | 🐛 105 | 🌐 Go | 📅 2026-08-29 - This exporter is the recommended way to expose SNMP data in a format which Prometheus can ingest.
 * [trailofbits/onesixtyone](https://github.com/trailofbits/onesixtyone) ⭐ 724 | 🐛 7 | 🌐 C | 📅 2025-08-30 - Fast SNMP Scanner.
 * [snmpsim](https://github.com/etingof/snmpsim) ⭐ 455 | 🐛 80 | 🌐 Python | 📅 2023-07-24 - This is a pure-Python, open source and free implementation of SNMP agents simulator distributed under 2-clause BSD license.
 * [SECFORCE/SNMP-Brute](https://github.com/SECFORCE/SNMP-Brute) ⭐ 333 | 🐛 0 | 🌐 Python | 📅 2021-09-13 - Fast SNMP brute force, enumeration, CISCO config downloader and password cracking script.
