@@ -12,12 +12,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "C# SNMP Library (#SNMP) - Open source SNMP implementation for C# and .NET",
+                "homepage": "https://sharpsnmp.com",
                 "id": 3279450,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2026-05-16T22:15:36Z",
+                "open_issues": 11,
                 "owner": "lextudio",
                 "repo": "sharpsnmplib",
-                "stars": 404
+                "stars": 404,
+                "topics": [
+                  "android",
+                  "c-sharp",
+                  "dotnet",
+                  "dotnet-core",
+                  "dotnet-framework",
+                  "dotnet-standard",
+                  "dotnetcore",
+                  "ios",
+                  "linux",
+                  "macos",
+                  "mono",
+                  "snmp",
+                  "snmp-agent",
+                  "snmp-library",
+                  "snmpv1",
+                  "snmpv2",
+                  "snmpv2-trap",
+                  "snmpv3",
+                  "windows",
+                  "xamarin"
+                ]
               },
               "first_seen": "2026-08-28T21:32:01.588Z"
             },
@@ -28,12 +54,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Simple Network Management Protocol (SNMP) .Net library written in C# (csharp). Implements protocol version 1, 2 and 3.",
+                "homepage": null,
                 "id": 83504787,
                 "language": "C#",
+                "license": "NOASSERTION",
                 "last_commit": "2025-01-25T03:08:21Z",
+                "open_issues": 9,
                 "owner": "rqx110",
                 "repo": "SnmpSharpNet",
-                "stars": 84
+                "stars": 84,
+                "topics": [
+                  "csharp",
+                  "snmp"
+                ]
               },
               "first_seen": "2026-08-28T21:32:01.588Z"
             }
@@ -51,12 +85,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An SNMP library written in Go",
+                "homepage": null,
                 "id": 5567243,
                 "language": "Go",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-01T21:18:06Z",
+                "open_issues": 72,
                 "owner": "gosnmp",
                 "repo": "gosnmp",
-                "stars": 1253
+                "stars": 1253,
+                "topics": [
+                  "go",
+                  "golang",
+                  "snmp",
+                  "snmp-agent",
+                  "snmpv2",
+                  "snmpv2-trap",
+                  "snmpv3"
+                ]
               },
               "first_seen": "2026-08-28T21:32:01.588Z"
             },
@@ -67,12 +114,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Parsing MIBs so you don't have to!",
+                "homepage": null,
                 "id": 91162086,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2024-04-24T14:46:17Z",
+                "open_issues": 17,
                 "owner": "sleepinggenius2",
                 "repo": "gosmi",
-                "stars": 115
+                "stars": 115,
+                "topics": [
+                  "go",
+                  "golang",
+                  "libsmi",
+                  "mib",
+                  "smi",
+                  "snmp"
+                ]
               },
               "first_seen": "2026-08-28T21:32:01.588Z"
             },
@@ -83,12 +142,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Golang AgentX implementation for SNMP extension",
+                "homepage": null,
                 "id": 41365377,
                 "language": "Go",
+                "license": "NOASSERTION",
                 "last_commit": "2025-08-28T14:05:40Z",
+                "open_issues": 1,
                 "owner": "posteo",
                 "repo": "go-agentx",
-                "stars": 69
+                "stars": 69,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:32:01.588Z"
             }
@@ -106,12 +170,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Mibble is an open-source SNMP MIB parser library for Java.",
+                "homepage": "https://www.mibble.org/",
                 "id": 1454368,
                 "language": "Java",
+                "license": "NOASSERTION",
                 "last_commit": "2022-04-28T13:53:27Z",
+                "open_issues": 13,
                 "owner": "cederberg",
                 "repo": "mibble",
-                "stars": 128
+                "stars": 128,
+                "topics": [
+                  "java",
+                  "mib-browser",
+                  "mib-validator",
+                  "parser-library",
+                  "snmp"
+                ]
               },
               "first_seen": "2026-08-28T21:32:01.588Z"
             }
@@ -129,12 +204,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Native Javascript SNMP library for Node.js",
+                "homepage": null,
                 "id": 3098126,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2020-06-03T16:06:44Z",
+                "open_issues": 18,
                 "owner": "calmh",
                 "repo": "node-snmp-native",
-                "stars": 255
+                "stars": 255,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:32:01.588Z"
             },
@@ -145,12 +225,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "JavaScript implementation of the Simple Network Management Protocol (SNMP)",
+                "homepage": null,
                 "id": 42960114,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2026-06-30T19:56:10Z",
+                "open_issues": 17,
                 "owner": "markabrahams",
                 "repo": "node-net-snmp",
-                "stars": 233
+                "stars": 233,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:32:01.588Z"
             },
@@ -161,12 +246,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "SNMP toolkit for Node.js",
+                "homepage": null,
                 "id": 3586442,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2024-02-28T17:00:41Z",
+                "open_issues": 39,
                 "owner": "TritonDataCenter",
                 "repo": "node-snmpjs",
-                "stars": 113
+                "stars": 113,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:32:01.588Z"
             },
@@ -177,12 +267,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Native Javascript SNMP library for Node.js",
+                "homepage": null,
                 "id": 269093616,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2023-02-09T10:01:41Z",
+                "open_issues": 1,
                 "owner": "neias",
                 "repo": "snmp-node",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:32:01.588Z"
             }
@@ -200,12 +295,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Lua binding to net-snmp library",
+                "homepage": "http://luasnmp.luaforge.net",
                 "id": 562215,
                 "language": "C",
+                "license": "NOASSERTION",
                 "last_commit": "2024-12-13T12:00:18Z",
+                "open_issues": 2,
                 "owner": "hleuwer",
                 "repo": "luasnmp",
-                "stars": 12
+                "stars": 12,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:32:01.588Z"
             }
@@ -223,12 +323,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A PHP SNMP library for people who hate SNMP, MIBs and OIDs!",
+                "homepage": "https://github.com/opensolutions/OSS_SNMP/wiki",
                 "id": 4597290,
                 "language": "PHP",
+                "license": "NOASSERTION",
                 "last_commit": "2026-02-11T21:23:44Z",
+                "open_issues": 0,
                 "owner": "opensolutions",
                 "repo": "OSS_SNMP",
-                "stars": 109
+                "stars": 109,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:32:01.588Z"
             },
@@ -239,12 +344,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Pure PHP SNMP Library.",
+                "homepage": null,
                 "id": 135075780,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2026-05-24T16:28:48Z",
+                "open_issues": 9,
                 "owner": "FreeDSx",
                 "repo": "SNMP",
-                "stars": 67
+                "stars": 67,
+                "topics": [
+                  "php",
+                  "snmp",
+                  "snmp-trap-listener",
+                  "snmp-traps",
+                  "snmpv2",
+                  "snmpv3"
+                ]
               },
               "first_seen": "2026-08-28T21:32:01.588Z"
             }
@@ -262,12 +379,33 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Scapy: the Python-based interactive packet manipulation program & library.",
+                "homepage": "https://scapy.net",
                 "id": 43509302,
                 "language": "Python",
+                "license": "GPL-2.0",
                 "last_commit": "2026-08-28T15:14:55Z",
+                "open_issues": 131,
                 "owner": "secdev",
                 "repo": "scapy",
-                "stars": 12501
+                "stars": 12501,
+                "topics": [
+                  "hacktoberfest",
+                  "network",
+                  "network-analysis",
+                  "network-discovery",
+                  "network-security",
+                  "network-visualization",
+                  "packet-analyser",
+                  "packet-capture",
+                  "packet-crafting",
+                  "packet-sniffer",
+                  "pcap",
+                  "python",
+                  "scapy",
+                  "security",
+                  "security-tools"
+                ]
               },
               "first_seen": "2026-08-28T21:32:01.588Z"
             },
@@ -278,12 +416,23 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A blazingly fast and Pythonic SNMP library based on the official Net-SNMP bindings",
+                "homepage": "http://www.net-snmp.org/",
                 "id": 36119026,
                 "language": "C",
+                "license": "NOASSERTION",
                 "last_commit": "2024-01-02T16:44:06Z",
+                "open_issues": 72,
                 "owner": "easysnmp",
                 "repo": "easysnmp",
-                "stars": 223
+                "stars": 223,
+                "topics": [
+                  "network-monitoring",
+                  "networking",
+                  "snmp",
+                  "snmpv2",
+                  "snmpv3"
+                ]
               },
               "first_seen": "2026-08-28T21:32:01.588Z"
             },
@@ -294,12 +443,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "interactive SNMP tool with Python",
+                "homepage": "http://snimpy.readthedocs.org/",
                 "id": 1396646,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-08-01T15:12:20Z",
+                "open_issues": 21,
                 "owner": "vincentbernat",
                 "repo": "snimpy",
-                "stars": 192
+                "stars": 192,
+                "topics": [
+                  "python",
+                  "snmp"
+                ]
               },
               "first_seen": "2026-08-28T21:32:01.588Z"
             },
@@ -315,24 +472,40 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Python SNMP library",
+                    "homepage": "http://snmplabs.com/pysnmp/",
                     "id": 52478762,
                     "language": "Python",
+                    "license": "BSD-2-Clause",
                     "last_commit": "2024-07-31T03:49:31Z",
+                    "open_issues": 215,
                     "owner": "etingof",
                     "repo": "pysnmp",
-                    "stars": 614
+                    "stars": 614,
+                    "topics": [
+                      "mib",
+                      "pysnmp",
+                      "python",
+                      "snmp",
+                      "snmpv3"
+                    ]
                   },
                   "first_seen": "2026-08-28T21:32:01.588Z"
                 }
               ],
               "repo_info": {
                 "archived": false,
+                "description": "Python SNMP library",
+                "homepage": "https://www.pysnmp.com/pysnmp/",
                 "id": 562745461,
                 "language": "Python",
+                "license": "BSD-2-Clause",
                 "last_commit": "2026-08-21T04:01:13Z",
+                "open_issues": 31,
                 "owner": "lextudio",
                 "repo": "pysnmp",
-                "stars": 157
+                "stars": 157,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:32:01.588Z"
             },
@@ -343,12 +516,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Pure Python SNMPv2 Library",
+                "homepage": "https://puresnmp.readthedocs.io/",
                 "id": 67870999,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-03-16T15:14:24Z",
+                "open_issues": 38,
                 "owner": "exhuma",
                 "repo": "puresnmp",
-                "stars": 87
+                "stars": 87,
+                "topics": [
+                  "python",
+                  "python-3",
+                  "snmp",
+                  "snmpv2",
+                  "tier-active"
+                ]
               },
               "first_seen": "2026-08-28T21:32:01.588Z"
             },
@@ -359,12 +543,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Allows to write net-snmp subagents in Python.",
+                "homepage": null,
                 "id": 6829512,
                 "language": "Python",
+                "license": "LGPL-3.0",
                 "last_commit": "2024-10-28T11:32:24Z",
+                "open_issues": 7,
                 "owner": "pief",
                 "repo": "python-netsnmpagent",
-                "stars": 68
+                "stars": 68,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:32:01.588Z"
             },
@@ -375,12 +564,22 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "aiosnmp is an asynchronous SNMP client and trap server for use with asyncio.",
+                "homepage": null,
                 "id": 150907231,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-07-12T12:12:09Z",
+                "open_issues": 0,
                 "owner": "hh-h",
                 "repo": "aiosnmp",
-                "stars": 54
+                "stars": 54,
+                "topics": [
+                  "asyncio",
+                  "python3",
+                  "snmp",
+                  "snmpv2"
+                ]
               },
               "first_seen": "2026-08-28T21:32:01.588Z"
             },
@@ -391,12 +590,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "High-level Python SNMP library",
+                "homepage": null,
                 "id": 20857712,
                 "language": "Python",
+                "license": "ISC",
                 "last_commit": "2021-11-28T17:29:20Z",
+                "open_issues": 3,
                 "owner": "trehn",
                 "repo": "hnmp",
-                "stars": 50
+                "stars": 50,
+                "topics": [
+                  "library",
+                  "python",
+                  "snmp"
+                ]
               },
               "first_seen": "2026-08-28T21:32:01.588Z"
             },
@@ -407,12 +615,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Gufo SNMP is the accelerated Python SNMP library",
+                "homepage": null,
                 "id": 585128007,
                 "language": "Rust",
+                "license": "NOASSERTION",
                 "last_commit": "2026-04-13T10:17:31Z",
+                "open_issues": 4,
                 "owner": "gufolabs",
                 "repo": "gufo_snmp",
-                "stars": 24
+                "stars": 24,
+                "topics": [
+                  "async",
+                  "gufo",
+                  "networking",
+                  "pyo3",
+                  "pypi",
+                  "python",
+                  "rust",
+                  "snmp",
+                  "snmpv3",
+                  "typed"
+                ]
               },
               "first_seen": "2026-08-28T21:32:01.588Z"
             },
@@ -428,24 +652,42 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "SNMP MIB parser",
+                    "homepage": "http://snmplabs.com/pysmi/",
                     "id": 52479456,
                     "language": "Python",
+                    "license": "BSD-2-Clause",
                     "last_commit": "2023-07-21T13:42:14Z",
+                    "open_issues": 23,
                     "owner": "etingof",
                     "repo": "pysmi",
-                    "stars": 143
+                    "stars": 143,
+                    "topics": [
+                      "json",
+                      "mib",
+                      "pysnmp",
+                      "python",
+                      "smi",
+                      "snmp",
+                      "snmp-mib-parser"
+                    ]
                   },
                   "first_seen": "2026-08-28T21:32:01.588Z"
                 }
               ],
               "repo_info": {
                 "archived": false,
+                "description": "SNMP MIB parser",
+                "homepage": "https://www.pysnmp.com/pysmi/",
                 "id": 564528386,
                 "language": "Python",
+                "license": "BSD-2-Clause",
                 "last_commit": "2026-04-26T21:02:25Z",
+                "open_issues": 3,
                 "owner": "lextudio",
                 "repo": "pysmi",
-                "stars": 10
+                "stars": 10,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:32:01.588Z"
             },
@@ -456,12 +698,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "SnmpLibrary for Robot Framework",
+                "homepage": null,
                 "id": 16596096,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2023-01-04T15:01:55Z",
+                "open_issues": 16,
                 "owner": "kontron",
                 "repo": "robotframework-snmplibrary",
-                "stars": 9
+                "stars": 9,
+                "topics": [
+                  "python",
+                  "robotframework",
+                  "snmp"
+                ]
               },
               "first_seen": "2026-08-28T21:32:01.588Z"
             }
@@ -479,12 +730,24 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "SNMP library in ruby (v1, v2c, v3)",
+                "homepage": null,
                 "id": 56509904,
                 "language": "Ruby",
+                "license": "Apache-2.0",
                 "last_commit": "2024-10-28T15:10:20Z",
+                "open_issues": 7,
                 "owner": "swisscom",
                 "repo": "ruby-netsnmp",
-                "stars": 34
+                "stars": 34,
+                "topics": [
+                  "netsnmp",
+                  "nonblocking",
+                  "pure-ruby",
+                  "ruby",
+                  "snmp",
+                  "snmp-protocol"
+                ]
               },
               "first_seen": "2026-08-28T21:32:01.588Z"
             }
@@ -502,12 +765,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "SNMP parser written in rust with nom",
+                "homepage": null,
                 "id": 70426038,
                 "language": "Rust",
+                "license": "NOASSERTION",
                 "last_commit": "2026-01-19T20:31:30Z",
+                "open_issues": 4,
                 "owner": "rusticata",
                 "repo": "snmp-parser",
-                "stars": 45
+                "stars": 45,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:32:01.588Z"
             },
@@ -518,12 +786,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A pure-Rust library for SNMPv3",
+                "homepage": null,
                 "id": 280658970,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2024-08-23T15:39:30Z",
+                "open_issues": 5,
                 "owner": "davedufresne",
                 "repo": "modern_snmp",
-                "stars": 33
+                "stars": 33,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:32:01.588Z"
             },
@@ -534,12 +807,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "SNMP Agent written in Rust",
+                "homepage": null,
                 "id": 112023125,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2021-03-01T10:35:57Z",
+                "open_issues": 2,
                 "owner": "Svedrin",
                 "repo": "sunt",
-                "stars": 28
+                "stars": 28,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:32:01.588Z"
             }
@@ -563,12 +841,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "SNMP Exporter for Prometheus",
+                "homepage": null,
                 "id": 31185891,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-19T09:18:46Z",
+                "open_issues": 104,
                 "owner": "prometheus",
                 "repo": "snmp_exporter",
-                "stars": 2165
+                "stars": 2165,
+                "topics": [
+                  "metrics",
+                  "mib",
+                  "monitoring",
+                  "prometheus",
+                  "prometheus-exporter",
+                  "snmp"
+                ]
               },
               "first_seen": "2026-08-28T21:32:01.588Z"
             },
@@ -579,12 +869,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Fast SNMP Scanner",
+                "homepage": null,
                 "id": 16621298,
                 "language": "C",
+                "license": "GPL-2.0",
                 "last_commit": "2025-08-30T17:18:28Z",
+                "open_issues": 7,
                 "owner": "trailofbits",
                 "repo": "onesixtyone",
-                "stars": 724
+                "stars": 724,
+                "topics": [
+                  "network-security",
+                  "snmp"
+                ]
               },
               "first_seen": "2026-08-28T21:32:01.588Z"
             },
@@ -595,12 +893,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "SNMP Simulator",
+                "homepage": "http://snmplabs.com/snmpsim/",
                 "id": 52477843,
                 "language": "Python",
+                "license": "BSD-2-Clause",
                 "last_commit": "2023-07-24T14:18:21Z",
+                "open_issues": 80,
                 "owner": "etingof",
                 "repo": "snmpsim",
-                "stars": 455
+                "stars": 455,
+                "topics": [
+                  "gather-simulation-data",
+                  "simulated-data",
+                  "snmp",
+                  "snmp-agent",
+                  "snmp-simulator"
+                ]
               },
               "first_seen": "2026-08-28T21:32:01.588Z"
             },
@@ -611,12 +920,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Fast SNMP brute force, enumeration, CISCO config downloader and password cracking script.",
+                "homepage": null,
                 "id": 28965110,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2021-09-13T06:46:53Z",
+                "open_issues": 0,
                 "owner": "SECFORCE",
                 "repo": "SNMP-Brute",
-                "stars": 333
+                "stars": 333,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:32:01.588Z"
             },
@@ -627,12 +941,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An SNMPv3 User Enumerator and Attack tool",
+                "homepage": null,
                 "id": 61284231,
                 "language": "Ruby",
+                "license": "MIT",
                 "last_commit": "2020-08-23T10:41:38Z",
+                "open_issues": 0,
                 "owner": "hatlord",
                 "repo": "snmpwn",
-                "stars": 269
+                "stars": 269,
+                "topics": [
+                  "attack",
+                  "brute-force",
+                  "bruteforce",
+                  "snmpv3"
+                ]
               },
               "first_seen": "2026-08-28T21:32:01.588Z"
             },
@@ -643,12 +967,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An SNMPv3 User Enumerator and Attack tool",
+                "homepage": null,
                 "id": 61284231,
                 "language": "Ruby",
+                "license": "MIT",
                 "last_commit": "2020-08-23T10:41:38Z",
+                "open_issues": 0,
                 "owner": "hatlord",
                 "repo": "snmpwn",
-                "stars": 269
+                "stars": 269,
+                "topics": [
+                  "attack",
+                  "brute-force",
+                  "bruteforce",
+                  "snmpv3"
+                ]
               },
               "first_seen": "2026-08-28T21:32:01.588Z"
             },
@@ -659,12 +993,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "SNMP Template generator for Zabbix",
+                "homepage": null,
                 "id": 60155333,
                 "language": "Perl",
+                "license": null,
                 "last_commit": "2022-07-15T09:57:19Z",
+                "open_issues": 18,
                 "owner": "zabbix-tools",
                 "repo": "mib2zabbix",
-                "stars": 241
+                "stars": 241,
+                "topics": [
+                  "snmp",
+                  "zabbix",
+                  "zabbix-templates"
+                ]
               },
               "first_seen": "2026-08-28T21:32:01.588Z"
             },
@@ -675,12 +1018,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A suite of tools for ingesting and displaying SNMP traps.",
+                "homepage": null,
                 "id": 17873435,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2018-02-08T21:16:54Z",
+                "open_issues": 11,
                 "owner": "dropbox",
                 "repo": "trapperkeeper",
-                "stars": 80
+                "stars": 80,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:32:01.588Z"
             },
@@ -691,12 +1039,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "SNMP Proxy Forwarder",
+                "homepage": "http://snmplabs.com/snmpfwd/",
                 "id": 52423834,
                 "language": "Python",
+                "license": "BSD-2-Clause",
                 "last_commit": "2019-12-15T18:22:58Z",
+                "open_issues": 27,
                 "owner": "etingof",
                 "repo": "snmpfwd",
-                "stars": 72
+                "stars": 72,
+                "topics": [
+                  "proxy",
+                  "snmp",
+                  "snmp-forwarder",
+                  "snmpproxy",
+                  "snmptranslator"
+                ]
               },
               "first_seen": "2026-08-28T21:32:01.588Z"
             },
@@ -707,12 +1066,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Pure-Python SNMP management tools",
+                "homepage": "http://snmplabs.com/snmpclitools/",
                 "id": 52478526,
                 "language": "Python",
+                "license": "BSD-2-Clause",
                 "last_commit": "2021-11-17T04:39:22Z",
+                "open_issues": 9,
                 "owner": "etingof",
                 "repo": "snmpclitools",
-                "stars": 61
+                "stars": 61,
+                "topics": [
+                  "net-snmp",
+                  "snmp",
+                  "snmpget",
+                  "snmpwalk"
+                ]
               },
               "first_seen": "2026-08-28T21:32:01.588Z"
             },
@@ -723,12 +1092,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A lightweight SNMP server for testing purposes.  Sends very limited responses of test data.  Designed to scale.",
+                "homepage": null,
                 "id": 576000852,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2025-12-29T16:54:38Z",
+                "open_issues": 0,
                 "owner": "patrickscottbest",
                 "repo": "OIDrage",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:32:01.588Z"
             }
@@ -746,12 +1120,33 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A full featured  Generic SNMP data collector with Web Administration Interface  for InfluxDB",
+                "homepage": null,
                 "id": 56316007,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2023-12-18T23:01:40Z",
+                "open_issues": 44,
                 "owner": "toni-moreno",
                 "repo": "snmpcollector",
-                "stars": 306
+                "stars": 306,
+                "topics": [
+                  "cacti",
+                  "collector",
+                  "discovery",
+                  "golang",
+                  "influxdb",
+                  "metrics",
+                  "monitoring",
+                  "networking",
+                  "opennms",
+                  "performance",
+                  "performance-monitoring",
+                  "qos",
+                  "snmp",
+                  "solarwinds",
+                  "time-series"
+                ]
               },
               "first_seen": "2026-08-28T21:32:01.588Z"
             },
@@ -762,12 +1157,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Simple UI for some SNMP commands: SNMPGET and SNMPWALK",
+                "homepage": "https://www.sysaid.com/Sysforums/posts/list/2287.page",
                 "id": 79213777,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2017-01-17T15:04:24Z",
+                "open_issues": 2,
                 "owner": "sisraell",
                 "repo": "VisualSNMP",
-                "stars": 13
+                "stars": 13,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:32:01.588Z"
             },
@@ -778,12 +1178,37 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "TWSNMP for Kiosk",
+                "homepage": "https://twsnmp.github.io/twsnmpfk/",
                 "id": 669644544,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-27T07:05:08Z",
+                "open_issues": 0,
                 "owner": "twsnmp",
                 "repo": "twsnmpfk",
-                "stars": 8
+                "stars": 8,
+                "topics": [
+                  "dashboard",
+                  "desktop-application",
+                  "gnmi",
+                  "golang",
+                  "ipfix",
+                  "mqtt-broker",
+                  "mqtt-server",
+                  "netflow",
+                  "network-management",
+                  "network-monitoring",
+                  "opentelemetry",
+                  "opentelemetry-collector",
+                  "packet-analysis",
+                  "snmp",
+                  "syslog",
+                  "syslog-server",
+                  "visualizer",
+                  "wails",
+                  "wails2"
+                ]
               },
               "first_seen": "2026-08-28T21:32:01.588Z"
             }
@@ -805,12 +1230,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An archive of over 3000 unique SNMP MIBs",
+            "homepage": null,
             "id": 76599709,
             "language": "Shell",
+            "license": null,
             "last_commit": "2018-11-06T22:37:42Z",
+            "open_issues": 1,
             "owner": "hsnodgrass",
             "repo": "snmp_mib_archive",
-            "stars": 186
+            "stars": 186,
+            "topics": [
+              "mib",
+              "snmp"
+            ]
           },
           "first_seen": "2026-08-28T21:32:01.588Z"
         },
@@ -821,12 +1254,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A collection of MIBS used for SNMP I have accumulated over the last 20+ years, works with NET-SNMP tools.",
+            "homepage": null,
             "id": 106062761,
             "language": "Perl",
+            "license": "NOASSERTION",
             "last_commit": "2026-07-01T05:13:19Z",
+            "open_issues": 1,
             "owner": "kcsinclair",
             "repo": "mibs",
-            "stars": 78
+            "stars": 78,
+            "topics": [
+              "management-api",
+              "management-system",
+              "mib",
+              "mib-database",
+              "network-monitoring",
+              "snmp",
+              "snmp-agent",
+              "snmpv2",
+              "snmpv2-trap",
+              "snmpv3"
+            ]
           },
           "first_seen": "2026-08-28T21:32:01.588Z"
         }
@@ -835,15 +1284,24 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T21:32:01.588Z",
+    "last_updated": "2026-08-29T04:54:49.831Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of awesome SNMP libraries, tools, and other resources.",
+      "homepage": null,
       "id": 455546220,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2026-03-30T11:47:03Z",
+      "open_issues": 3,
       "owner": "eozer",
       "repo": "awesome-snmp",
-      "stars": 192
+      "stars": 192,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "snmp"
+      ]
     },
     "original_repository_sha": "eecb6b92a02b310fa8a46bb12c17643fdfee7f61",
     "enhanced_repository": "enhansome/enhansome-snmp",
