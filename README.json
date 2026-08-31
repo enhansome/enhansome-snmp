@@ -384,11 +384,11 @@
                 "id": 43509302,
                 "language": "Python",
                 "license": "GPL-2.0",
-                "last_commit": "2026-08-28T15:14:55Z",
-                "open_issues": 131,
+                "last_commit": "2026-08-30T18:27:12Z",
+                "open_issues": 129,
                 "owner": "secdev",
                 "repo": "scapy",
-                "stars": 12504,
+                "stars": 12506,
                 "topics": [
                   "hacktoberfest",
                   "network",
@@ -621,7 +621,7 @@
                 "language": "Rust",
                 "license": "NOASSERTION",
                 "last_commit": "2026-04-13T10:17:31Z",
-                "open_issues": 4,
+                "open_issues": 5,
                 "owner": "gufolabs",
                 "repo": "gufo_snmp",
                 "stars": 24,
@@ -1284,7 +1284,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T15:29:04.505Z",
+    "last_updated": "2026-08-31T18:09:58.552Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome SNMP libraries, tools, and other resources.",

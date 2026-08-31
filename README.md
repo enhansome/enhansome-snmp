@@ -88,7 +88,7 @@ This is a curated list of awesome SNMP libraries, tools, and other resources. Co
 
 ### Python
 
-* [Scapy](https://github.com/secdev/scapy) ⭐ 12,504 | 🐛 131 | 🌐 Python | 📅 2026-08-28 - Packet manipulation program & library. Scapy has a [module](https://github.com/secdev/scapy/blob/master/scapy/layers/snmp.py) ⭐ 12,504 | 🐛 131 | 🌐 Python | 📅 2026-08-28 to build/dissect SNMP packets. ![GitHub last commit](https://img.shields.io/github/last-commit/secdev/scapy)
+* [Scapy](https://github.com/secdev/scapy) ⭐ 12,506 | 🐛 129 | 🌐 Python | 📅 2026-08-30 - Packet manipulation program & library. Scapy has a [module](https://github.com/secdev/scapy/blob/master/scapy/layers/snmp.py) ⭐ 12,506 | 🐛 129 | 🌐 Python | 📅 2026-08-30 to build/dissect SNMP packets. ![GitHub last commit](https://img.shields.io/github/last-commit/secdev/scapy)
 * [easysnmp](https://github.com/easysnmp/easysnmp) ⚠️ Archived - A fork of [net-snmp Python bindings](http://www.net-snmp.org/wiki/index.php/Python_Bindings) that attempts to bring a more Pythonic interface to the library. ![GitHub last commit](https://img.shields.io/github/last-commit/easysnmp/easysnmp)
 * [snimpy](https://github.com/vincentbernat/snimpy) ⭐ 192 | 🐛 21 | 🌐 Python | 📅 2026-08-01 - Snimpy is a Python-based tool providing a simple interface to build SNMP query. ![GitHub last commit](https://img.shields.io/github/last-commit/vincentbernat/snimpy)
 * [pysnmp](https://github.com/lextudio/pysnmp) ⭐ 157 | 🐛 31 | 🌐 Python | 📅 2026-08-21 - This is a pure-Python, open source and free implementation of v1/v2c/v3 SNMP engine distributed under 2-clause BSD license.
@@ -97,7 +97,7 @@ This is a curated list of awesome SNMP libraries, tools, and other resources. Co
 * [python-netsnmpagent](https://github.com/pief/python-netsnmpagent) ⭐ 68 | 🐛 7 | 🌐 Python | 📅 2024-10-28 - This package allows to write net-snmp subagents in Python. ![GitHub last commit](https://img.shields.io/github/last-commit/pief/python-netsnmpagent)
 * [aiosnmp](https://github.com/hh-h/aiosnmp) ⚠️ Archived - Python package aiosnmp is an asynchronous SNMP client for use with asyncio. Only SNMP v2c is supported. ![GitHub last commit](https://img.shields.io/github/last-commit/hh-h/aiosnmp)
 * [hnmp](https://github.com/trehn/hnmp) ⭐ 50 | 🐛 3 | 🌐 Python | 📅 2021-11-28 - HNMP is a high-level Python library to ease the pain of retrieving and processing data from SNMP-capable devices such as network switches, routers, and printers. ![GitHub last commit](https://img.shields.io/github/last-commit/trehn/hnmp)
-* [gufo\_snmp](https://github.com/gufolabs/gufo_snmp) ⭐ 24 | 🐛 4 | 🌐 Rust | 📅 2026-04-13 - The accelerated Python SNMP client library supporting both async and synchronous mode. It consists of a clean Python API for high-efficient BER parser and socket IO, implemented in the Rust language with PyO3 wrapper. Seems to be a bit early in the project's lifecycle, but it is easy to use and ***extremely*** fast, especially when querying many devices. ![GitHub last commit](https://img.shields.io/github/last-commit/gufolabs/gufo_snmp)
+* [gufo\_snmp](https://github.com/gufolabs/gufo_snmp) ⭐ 24 | 🐛 5 | 🌐 Rust | 📅 2026-04-13 - The accelerated Python SNMP client library supporting both async and synchronous mode. It consists of a clean Python API for high-efficient BER parser and socket IO, implemented in the Rust language with PyO3 wrapper. Seems to be a bit early in the project's lifecycle, but it is easy to use and ***extremely*** fast, especially when querying many devices. ![GitHub last commit](https://img.shields.io/github/last-commit/gufolabs/gufo_snmp)
 * [pysmi](https://github.com/lextudio/pysmi) ⭐ 10 | 🐛 3 | 🌐 Python | 📅 2026-04-26 - PySMI is a pure-Python implementation of SNMP SMI MIB parser.
   * This project is derived from [the original repo](https://github.com/etingof/pysmi) ⭐ 143 | 🐛 23 | 🌐 Python | 📅 2023-07-21.
 * [robotframework-snmplibrary](https://github.com/kontron/robotframework-snmplibrary) ⭐ 9 | 🐛 16 | 🌐 Python | 📅 2023-01-04 - SNMPLibrary is a Robot Framework test library for testing SNMP. ![GitHub last commit](https://img.shields.io/github/last-commit/kontron/robotframework-snmplibrary)
@@ -274,4 +274,4 @@ Please take a quick look at the [contribution guidelines](contributing.md) first
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-31._
