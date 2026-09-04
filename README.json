@@ -384,11 +384,11 @@
                 "id": 43509302,
                 "language": "Python",
                 "license": "GPL-2.0",
-                "last_commit": "2026-09-03T12:27:02Z",
-                "open_issues": 148,
+                "last_commit": "2026-09-03T21:58:19Z",
+                "open_issues": 139,
                 "owner": "secdev",
                 "repo": "scapy",
-                "stars": 12514,
+                "stars": 12517,
                 "topics": [
                   "hacktoberfest",
                   "network",
@@ -847,7 +847,7 @@
                 "language": "Go",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-03T13:28:07Z",
-                "open_issues": 102,
+                "open_issues": 104,
                 "owner": "prometheus",
                 "repo": "snmp_exporter",
                 "stars": 2167,
@@ -878,7 +878,7 @@
                 "open_issues": 7,
                 "owner": "trailofbits",
                 "repo": "onesixtyone",
-                "stars": 725,
+                "stars": 726,
                 "topics": [
                   "network-security",
                   "snmp"
@@ -1284,7 +1284,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T15:14:06.718Z",
+    "last_updated": "2026-09-04T15:08:45.454Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome SNMP libraries, tools, and other resources.",
@@ -1296,7 +1296,7 @@
       "open_issues": 3,
       "owner": "eozer",
       "repo": "awesome-snmp",
-      "stars": 192,
+      "stars": 193,
       "topics": [
         "awesome",
         "awesome-list",
