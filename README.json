@@ -384,11 +384,11 @@
                 "id": 43509302,
                 "language": "Python",
                 "license": "GPL-2.0",
-                "last_commit": "2026-09-03T21:58:19Z",
+                "last_commit": "2026-09-04T20:06:52Z",
                 "open_issues": 139,
                 "owner": "secdev",
                 "repo": "scapy",
-                "stars": 12517,
+                "stars": 12520,
                 "topics": [
                   "hacktoberfest",
                   "network",
@@ -1239,7 +1239,7 @@
             "open_issues": 1,
             "owner": "hsnodgrass",
             "repo": "snmp_mib_archive",
-            "stars": 186,
+            "stars": 185,
             "topics": [
               "mib",
               "snmp"
@@ -1284,7 +1284,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T15:08:45.454Z",
+    "last_updated": "2026-09-05T14:00:55.186Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome SNMP libraries, tools, and other resources.",
