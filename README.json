@@ -90,11 +90,11 @@
                 "id": 5567243,
                 "language": "Go",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-05T16:46:21Z",
-                "open_issues": 67,
+                "last_commit": "2026-09-07T10:03:06Z",
+                "open_issues": 64,
                 "owner": "gosnmp",
                 "repo": "gosnmp",
-                "stars": 1252,
+                "stars": 1253,
                 "topics": [
                   "go",
                   "golang",
@@ -385,10 +385,10 @@
                 "language": "Python",
                 "license": "GPL-2.0",
                 "last_commit": "2026-09-06T09:03:11Z",
-                "open_issues": 139,
+                "open_issues": 140,
                 "owner": "secdev",
                 "repo": "scapy",
-                "stars": 12521,
+                "stars": 12525,
                 "topics": [
                   "hacktoberfest",
                   "network",
@@ -501,10 +501,10 @@
                 "language": "Python",
                 "license": "BSD-2-Clause",
                 "last_commit": "2026-09-02T20:22:56Z",
-                "open_issues": 33,
+                "open_issues": 34,
                 "owner": "lextudio",
                 "repo": "pysnmp",
-                "stars": 157,
+                "stars": 158,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:32:01.588Z"
@@ -846,8 +846,8 @@
                 "id": 31185891,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-06T13:42:03Z",
-                "open_issues": 102,
+                "last_commit": "2026-09-06T20:47:36Z",
+                "open_issues": 103,
                 "owner": "prometheus",
                 "repo": "snmp_exporter",
                 "stars": 2167,
@@ -878,7 +878,7 @@
                 "open_issues": 7,
                 "owner": "trailofbits",
                 "repo": "onesixtyone",
-                "stars": 726,
+                "stars": 727,
                 "topics": [
                   "network-security",
                   "snmp"
@@ -1284,7 +1284,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T14:25:41.718Z",
+    "last_updated": "2026-09-07T16:40:28.211Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome SNMP libraries, tools, and other resources.",
