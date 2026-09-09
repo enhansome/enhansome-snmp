@@ -21,7 +21,7 @@
                 "open_issues": 12,
                 "owner": "lextudio",
                 "repo": "sharpsnmplib",
-                "stars": 404,
+                "stars": 403,
                 "topics": [
                   "android",
                   "c-sharp",
@@ -63,7 +63,7 @@
                 "open_issues": 9,
                 "owner": "rqx110",
                 "repo": "SnmpSharpNet",
-                "stars": 84,
+                "stars": 83,
                 "topics": [
                   "csharp",
                   "snmp"
@@ -384,11 +384,11 @@
                 "id": 43509302,
                 "language": "Python",
                 "license": "GPL-2.0",
-                "last_commit": "2026-09-08T15:01:15Z",
+                "last_commit": "2026-09-09T09:22:24Z",
                 "open_issues": 135,
                 "owner": "secdev",
                 "repo": "scapy",
-                "stars": 12527,
+                "stars": 12531,
                 "topics": [
                   "hacktoberfest",
                   "network",
@@ -1284,7 +1284,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T15:22:18.521Z",
+    "last_updated": "2026-09-09T15:19:44.382Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome SNMP libraries, tools, and other resources.",
