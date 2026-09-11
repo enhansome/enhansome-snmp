@@ -179,7 +179,7 @@
                 "open_issues": 13,
                 "owner": "cederberg",
                 "repo": "mibble",
-                "stars": 128,
+                "stars": 129,
                 "topics": [
                   "java",
                   "mib-browser",
@@ -230,8 +230,8 @@
                 "id": 42960114,
                 "language": "JavaScript",
                 "license": null,
-                "last_commit": "2026-06-30T19:56:10Z",
-                "open_issues": 17,
+                "last_commit": "2026-09-11T10:34:24Z",
+                "open_issues": 13,
                 "owner": "markabrahams",
                 "repo": "node-net-snmp",
                 "stars": 233,
@@ -384,11 +384,11 @@
                 "id": 43509302,
                 "language": "Python",
                 "license": "GPL-2.0",
-                "last_commit": "2026-09-10T08:26:59Z",
-                "open_issues": 136,
+                "last_commit": "2026-09-10T22:34:51Z",
+                "open_issues": 139,
                 "owner": "secdev",
                 "repo": "scapy",
-                "stars": 12532,
+                "stars": 12536,
                 "topics": [
                   "hacktoberfest",
                   "network",
@@ -1239,7 +1239,7 @@
             "open_issues": 1,
             "owner": "hsnodgrass",
             "repo": "snmp_mib_archive",
-            "stars": 185,
+            "stars": 186,
             "topics": [
               "mib",
               "snmp"
@@ -1284,7 +1284,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T15:12:45.008Z",
+    "last_updated": "2026-09-11T15:14:46.523Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome SNMP libraries, tools, and other resources.",

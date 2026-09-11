@@ -63,7 +63,7 @@ This is a curated list of awesome SNMP libraries, tools, and other resources. Co
 
 ### Java
 
-* [mibble](https://github.com/cederberg/mibble) ⭐ 128 | 🐛 13 | 🌐 Java | 📅 2022-04-28 - Mibble is an open-source SNMP MIB (or SMI) parser library for Java.
+* [mibble](https://github.com/cederberg/mibble) ⭐ 129 | 🐛 13 | 🌐 Java | 📅 2022-04-28 - Mibble is an open-source SNMP MIB (or SMI) parser library for Java.
 * [SNMP4J](https://www.agentpp.com/api/java/snmp4j.html) - SNMP4J is an enterprise class, free open source, and state-of-the-art SNMP v1/2c/v3 implementation for Java™.
 * [SNMP4J-Agent](https://www.agentpp.com/api/java/snmp4jagent.html) - SNMP4J-Agent is a Java™ API on top of the core SNMP4J API for the development of SNMP agents (command responders).
 * [joeSNMP](https://sourceforge.net/projects/joesnmp/) - joeSNMP is an open-source Java SNMP class library published under the LGPL.
@@ -72,7 +72,7 @@ This is a curated list of awesome SNMP libraries, tools, and other resources. Co
 ### JavaScript
 
 * [node-snmp-native](https://github.com/calmh/node-snmp-native) ⚠️ Archived -  Native JavaScript SNMP library for Node.js.
-* [node-net-snmp](https://github.com/markabrahams/node-net-snmp) ⭐ 233 | 🐛 17 | 🌐 JavaScript | 📅 2026-06-30 -  JavaScript implementation of the Simple Network Management Protocol (SNMP), implements versions 1, 2c and 3.
+* [node-net-snmp](https://github.com/markabrahams/node-net-snmp) ⭐ 233 | 🐛 13 | 🌐 JavaScript | 📅 2026-09-11 -  JavaScript implementation of the Simple Network Management Protocol (SNMP), implements versions 1, 2c and 3.
 * [node-snmpjs](https://github.com/joyent/node-snmpjs) ⭐ 113 | 🐛 39 | 🌐 JavaScript | 📅 2024-02-28 - This package provides a toolkit for SNMP agents and management applications in Node.js.
 * [snmp-node](https://github.com/neias/snmp-node) ⭐ 4 | 🐛 1 | 🌐 JavaScript | 📅 2023-02-09 - Native JavaScript SNMP library for Node.js.
 
@@ -88,7 +88,7 @@ This is a curated list of awesome SNMP libraries, tools, and other resources. Co
 
 ### Python
 
-* [Scapy](https://github.com/secdev/scapy) ⭐ 12,532 | 🐛 136 | 🌐 Python | 📅 2026-09-10 - Packet manipulation program & library. Scapy has a [module](https://github.com/secdev/scapy/blob/master/scapy/layers/snmp.py) ⭐ 12,532 | 🐛 136 | 🌐 Python | 📅 2026-09-10 to build/dissect SNMP packets. ![GitHub last commit](https://img.shields.io/github/last-commit/secdev/scapy)
+* [Scapy](https://github.com/secdev/scapy) ⭐ 12,536 | 🐛 139 | 🌐 Python | 📅 2026-09-10 - Packet manipulation program & library. Scapy has a [module](https://github.com/secdev/scapy/blob/master/scapy/layers/snmp.py) ⭐ 12,536 | 🐛 139 | 🌐 Python | 📅 2026-09-10 to build/dissect SNMP packets. ![GitHub last commit](https://img.shields.io/github/last-commit/secdev/scapy)
 * [easysnmp](https://github.com/easysnmp/easysnmp) ⚠️ Archived - A fork of [net-snmp Python bindings](http://www.net-snmp.org/wiki/index.php/Python_Bindings) that attempts to bring a more Pythonic interface to the library. ![GitHub last commit](https://img.shields.io/github/last-commit/easysnmp/easysnmp)
 * [snimpy](https://github.com/vincentbernat/snimpy) ⭐ 192 | 🐛 21 | 🌐 Python | 📅 2026-08-01 - Snimpy is a Python-based tool providing a simple interface to build SNMP query. ![GitHub last commit](https://img.shields.io/github/last-commit/vincentbernat/snimpy)
 * [pysnmp](https://github.com/lextudio/pysnmp) ⭐ 158 | 🐛 34 | 🌐 Python | 📅 2026-09-02 - This is a pure-Python, open source and free implementation of v1/v2c/v3 SNMP engine distributed under 2-clause BSD license.
@@ -244,7 +244,7 @@ This is a curated list of awesome SNMP libraries, tools, and other resources. Co
 
 ## MIB repositories
 
-* [hsnodgrass/snmp\_mib\_archive](https://github.com/hsnodgrass/snmp_mib_archive) ⭐ 185 | 🐛 1 | 🌐 Shell | 📅 2018-11-06 - An archive of over 3000 unique SNMP MIBs.
+* [hsnodgrass/snmp\_mib\_archive](https://github.com/hsnodgrass/snmp_mib_archive) ⭐ 186 | 🐛 1 | 🌐 Shell | 📅 2018-11-06 - An archive of over 3000 unique SNMP MIBs.
 * [kcsinclair/mibs](https://github.com/kcsinclair/mibs) ⭐ 78 | 🐛 1 | 🌐 Perl | 📅 2026-07-01 - Another collection of MIBS used for SNMP. Make sure to clone the repository to see the full list of MIBs.
 * [mibdepot.com](http://www.mibdepot.com) - mibDepot is a free service to the SNMP community and offers a dictionary of MIBs and a unique-in-the-industry Search Engine with over 12,000 SNMP MIBs representing over 1,800,000 MIB object definitions.
 * [oid-info.com](http://oid-info.com) - This OID repository gathers information about Object Identifiers (OIDs), and provides tools to display, update and search for this information.
@@ -274,4 +274,4 @@ Please take a quick look at the [contribution guidelines](contributing.md) first
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-10._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-11._
