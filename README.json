@@ -230,7 +230,7 @@
                 "id": 42960114,
                 "language": "JavaScript",
                 "license": null,
-                "last_commit": "2026-09-11T10:34:24Z",
+                "last_commit": "2026-09-12T07:56:15Z",
                 "open_issues": 13,
                 "owner": "markabrahams",
                 "repo": "node-net-snmp",
@@ -384,11 +384,11 @@
                 "id": 43509302,
                 "language": "Python",
                 "license": "GPL-2.0",
-                "last_commit": "2026-09-10T22:34:51Z",
-                "open_issues": 139,
+                "last_commit": "2026-09-12T14:22:24Z",
+                "open_issues": 138,
                 "owner": "secdev",
                 "repo": "scapy",
-                "stars": 12536,
+                "stars": 12540,
                 "topics": [
                   "hacktoberfest",
                   "network",
@@ -504,7 +504,7 @@
                 "open_issues": 34,
                 "owner": "lextudio",
                 "repo": "pysnmp",
-                "stars": 158,
+                "stars": 159,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:32:01.588Z"
@@ -878,7 +878,7 @@
                 "open_issues": 7,
                 "owner": "trailofbits",
                 "repo": "onesixtyone",
-                "stars": 727,
+                "stars": 728,
                 "topics": [
                   "network-security",
                   "snmp"
@@ -1284,7 +1284,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T15:14:46.523Z",
+    "last_updated": "2026-09-12T14:24:17.409Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome SNMP libraries, tools, and other resources.",
