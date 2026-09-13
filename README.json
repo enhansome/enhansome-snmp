@@ -230,8 +230,8 @@
                 "id": 42960114,
                 "language": "JavaScript",
                 "license": null,
-                "last_commit": "2026-09-12T07:56:15Z",
-                "open_issues": 13,
+                "last_commit": "2026-09-13T05:07:54Z",
+                "open_issues": 12,
                 "owner": "markabrahams",
                 "repo": "node-net-snmp",
                 "stars": 233,
@@ -384,11 +384,11 @@
                 "id": 43509302,
                 "language": "Python",
                 "license": "GPL-2.0",
-                "last_commit": "2026-09-12T14:22:24Z",
+                "last_commit": "2026-09-12T17:07:21Z",
                 "open_issues": 138,
                 "owner": "secdev",
                 "repo": "scapy",
-                "stars": 12540,
+                "stars": 12542,
                 "topics": [
                   "hacktoberfest",
                   "network",
@@ -661,7 +661,7 @@
                     "open_issues": 23,
                     "owner": "etingof",
                     "repo": "pysmi",
-                    "stars": 143,
+                    "stars": 144,
                     "topics": [
                       "json",
                       "mib",
@@ -850,7 +850,7 @@
                 "open_issues": 103,
                 "owner": "prometheus",
                 "repo": "snmp_exporter",
-                "stars": 2167,
+                "stars": 2168,
                 "topics": [
                   "metrics",
                   "mib",
@@ -1183,7 +1183,7 @@
                 "id": 669644544,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-10T10:13:09Z",
+                "last_commit": "2026-09-12T22:05:07Z",
                 "open_issues": 0,
                 "owner": "twsnmp",
                 "repo": "twsnmpfk",
@@ -1284,7 +1284,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T14:24:17.409Z",
+    "last_updated": "2026-09-13T15:05:19.617Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome SNMP libraries, tools, and other resources.",
