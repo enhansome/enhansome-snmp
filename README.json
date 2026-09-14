@@ -231,7 +231,7 @@
                 "language": "JavaScript",
                 "license": null,
                 "last_commit": "2026-09-13T05:07:54Z",
-                "open_issues": 12,
+                "open_issues": 10,
                 "owner": "markabrahams",
                 "repo": "node-net-snmp",
                 "stars": 233,
@@ -388,7 +388,7 @@
                 "open_issues": 138,
                 "owner": "secdev",
                 "repo": "scapy",
-                "stars": 12542,
+                "stars": 12544,
                 "topics": [
                   "hacktoberfest",
                   "network",
@@ -847,10 +847,10 @@
                 "language": "Go",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-08T07:56:44Z",
-                "open_issues": 103,
+                "open_issues": 104,
                 "owner": "prometheus",
                 "repo": "snmp_exporter",
-                "stars": 2168,
+                "stars": 2169,
                 "topics": [
                   "metrics",
                   "mib",
@@ -1284,7 +1284,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T15:05:19.617Z",
+    "last_updated": "2026-09-14T17:03:54.785Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome SNMP libraries, tools, and other resources.",
