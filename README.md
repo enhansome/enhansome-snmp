@@ -72,7 +72,7 @@ This is a curated list of awesome SNMP libraries, tools, and other resources. Co
 ### JavaScript
 
 * [node-snmp-native](https://github.com/calmh/node-snmp-native) ⚠️ Archived -  Native JavaScript SNMP library for Node.js.
-* [node-net-snmp](https://github.com/markabrahams/node-net-snmp) ⭐ 233 | 🐛 10 | 🌐 JavaScript | 📅 2026-09-13 -  JavaScript implementation of the Simple Network Management Protocol (SNMP), implements versions 1, 2c and 3.
+* [node-net-snmp](https://github.com/markabrahams/node-net-snmp) ⭐ 233 | 🐛 8 | 🌐 JavaScript | 📅 2026-09-13 -  JavaScript implementation of the Simple Network Management Protocol (SNMP), implements versions 1, 2c and 3.
 * [node-snmpjs](https://github.com/joyent/node-snmpjs) ⭐ 113 | 🐛 39 | 🌐 JavaScript | 📅 2024-02-28 - This package provides a toolkit for SNMP agents and management applications in Node.js.
 * [snmp-node](https://github.com/neias/snmp-node) ⭐ 4 | 🐛 1 | 🌐 JavaScript | 📅 2023-02-09 - Native JavaScript SNMP library for Node.js.
 
@@ -82,13 +82,13 @@ This is a curated list of awesome SNMP libraries, tools, and other resources. Co
 
 ### PHP
 
-* [opensolutions/OSS\_SNMP](https://github.com/opensolutions/OSS_SNMP) ⭐ 109 | 🐛 0 | 🌐 PHP | 📅 2026-02-11 - A PHP SNMP library for people who hate SNMP, MIBs and OIDs!
+* [opensolutions/OSS\_SNMP](https://github.com/opensolutions/OSS_SNMP) ⭐ 109 | 🐛 1 | 🌐 PHP | 📅 2026-02-11 - A PHP SNMP library for people who hate SNMP, MIBs and OIDs!
 * [FreeDSx/SNMP](https://github.com/FreeDSx/SNMP) ⭐ 67 | 🐛 9 | 🌐 PHP | 📅 2026-05-24 - A Pure PHP SNMP Library.
 * [php.net/SNMP](https://www.php.net/manual/en/book.snmp.php) - This is an SNMP extension for PHP, which is a wrapper around the net-snmp library.
 
 ### Python
 
-* [Scapy](https://github.com/secdev/scapy) ⭐ 12,544 | 🐛 138 | 🌐 Python | 📅 2026-09-12 - Packet manipulation program & library. Scapy has a [module](https://github.com/secdev/scapy/blob/master/scapy/layers/snmp.py) ⭐ 12,544 | 🐛 138 | 🌐 Python | 📅 2026-09-12 to build/dissect SNMP packets. ![GitHub last commit](https://img.shields.io/github/last-commit/secdev/scapy)
+* [Scapy](https://github.com/secdev/scapy) ⭐ 12,545 | 🐛 139 | 🌐 Python | 📅 2026-09-12 - Packet manipulation program & library. Scapy has a [module](https://github.com/secdev/scapy/blob/master/scapy/layers/snmp.py) ⭐ 12,545 | 🐛 139 | 🌐 Python | 📅 2026-09-12 to build/dissect SNMP packets. ![GitHub last commit](https://img.shields.io/github/last-commit/secdev/scapy)
 * [easysnmp](https://github.com/easysnmp/easysnmp) ⚠️ Archived - A fork of [net-snmp Python bindings](http://www.net-snmp.org/wiki/index.php/Python_Bindings) that attempts to bring a more Pythonic interface to the library. ![GitHub last commit](https://img.shields.io/github/last-commit/easysnmp/easysnmp)
 * [snimpy](https://github.com/vincentbernat/snimpy) ⭐ 192 | 🐛 21 | 🌐 Python | 📅 2026-08-01 - Snimpy is a Python-based tool providing a simple interface to build SNMP query. ![GitHub last commit](https://img.shields.io/github/last-commit/vincentbernat/snimpy)
 * [pysnmp](https://github.com/lextudio/pysnmp) ⭐ 159 | 🐛 34 | 🌐 Python | 📅 2026-09-02 - This is a pure-Python, open source and free implementation of v1/v2c/v3 SNMP engine distributed under 2-clause BSD license.
@@ -175,7 +175,7 @@ This is a curated list of awesome SNMP libraries, tools, and other resources. Co
 
 * [toni-moreno/snmpcollector](https://github.com/toni-moreno/snmpcollector) ⭐ 306 | 🐛 44 | 🌐 Go | 📅 2023-12-18 - SnmpCollector is a full featured Generic SNMP data collector with Web Administration Interface Open Source tool which has as main goal simplify the configuration for getting data from any device which snmp protocol support and send resulting data to an influxdb backend.
 * [Visual SNMP](https://github.com/sisraell/VisualSNMP) ⭐ 13 | 🐛 2 | 🌐 JavaScript | 📅 2017-01-17 - Visual SNMP is a simple tool for testing access to SNMP agents. Currently SNMPGET and SNMPWALK are supported with some limited funcionality.
-* [TWSNMP FK](https://github.com/twsnmp/twsnmpfk) ⭐ 8 | 🐛 0 | 🌐 Go | 📅 2026-09-12 - An ultra-lightweight SNMP manager for Windows and Mac OS, featuring network mapping, polling, and AI analysis.
+* [TWSNMP FK](https://github.com/twsnmp/twsnmpfk) ⭐ 8 | 🐛 0 | 🌐 Go | 📅 2026-09-15 - An ultra-lightweight SNMP manager for Windows and Mac OS, featuring network mapping, polling, and AI analysis.
 * [tkmib](http://www.net-snmp.org/) - A perl/Tk interactive graphical MIB browser for SNMP.
 * [agentpp/MIB Designer](https://www.agentpp.com/tools/mibdesigner.html) - Use MIB Designer to create, edit, manage, and explore SMI specifications (`Commercial`).
 * [agentpp/MIB Explorer Pro](https://www.agentpp.com/tools/mibexplorer.html) - Use MIB Explorer to browse, configure, test\&debug, monitor, and discover SNMPv1/2c/3 entities.
@@ -274,4 +274,4 @@ Please take a quick look at the [contribution guidelines](contributing.md) first
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-15._
