@@ -58,7 +58,7 @@ This is a curated list of awesome SNMP libraries, tools, and other resources. Co
 ### Go
 
 * [gosnmp/gosnmp](https://github.com/gosnmp/gosnmp) ⭐ 1,253 | 🐛 64 | 🌐 Go | 📅 2026-09-07 - An SNMP library written in Go. It provides Get, GetNext, GetBulk, Walk, BulkWalk, Set and Traps. It supports IPv4/IPv6, using SNMP v1/v2c/v3.
-* [sleepinggenius2/gosmi](https://github.com/sleepinggenius2/gosmi) ⭐ 115 | 🐛 17 | 🌐 Go | 📅 2024-04-24 - MIB parser in Go language.
+* [sleepinggenius2/gosmi](https://github.com/sleepinggenius2/gosmi) ⭐ 116 | 🐛 17 | 🌐 Go | 📅 2024-04-24 - MIB parser in Go language.
 * [posteo/go-agentx](https://github.com/posteo/go-agentx) ⭐ 69 | 🐛 1 | 🌐 Go | 📅 2025-08-28 - A library with a pure Go implementation of the AgentX-Protocol.
 
 ### Java
@@ -82,13 +82,13 @@ This is a curated list of awesome SNMP libraries, tools, and other resources. Co
 
 ### PHP
 
-* [opensolutions/OSS\_SNMP](https://github.com/opensolutions/OSS_SNMP) ⭐ 109 | 🐛 1 | 🌐 PHP | 📅 2026-02-11 - A PHP SNMP library for people who hate SNMP, MIBs and OIDs!
+* [opensolutions/OSS\_SNMP](https://github.com/opensolutions/OSS_SNMP) ⭐ 110 | 🐛 1 | 🌐 PHP | 📅 2026-02-11 - A PHP SNMP library for people who hate SNMP, MIBs and OIDs!
 * [FreeDSx/SNMP](https://github.com/FreeDSx/SNMP) ⭐ 67 | 🐛 9 | 🌐 PHP | 📅 2026-05-24 - A Pure PHP SNMP Library.
 * [php.net/SNMP](https://www.php.net/manual/en/book.snmp.php) - This is an SNMP extension for PHP, which is a wrapper around the net-snmp library.
 
 ### Python
 
-* [Scapy](https://github.com/secdev/scapy) ⭐ 12,545 | 🐛 139 | 🌐 Python | 📅 2026-09-12 - Packet manipulation program & library. Scapy has a [module](https://github.com/secdev/scapy/blob/master/scapy/layers/snmp.py) ⭐ 12,545 | 🐛 139 | 🌐 Python | 📅 2026-09-12 to build/dissect SNMP packets. ![GitHub last commit](https://img.shields.io/github/last-commit/secdev/scapy)
+* [Scapy](https://github.com/secdev/scapy) ⭐ 12,547 | 🐛 137 | 🌐 Python | 📅 2026-09-16 - Packet manipulation program & library. Scapy has a [module](https://github.com/secdev/scapy/blob/master/scapy/layers/snmp.py) ⭐ 12,547 | 🐛 137 | 🌐 Python | 📅 2026-09-16 to build/dissect SNMP packets. ![GitHub last commit](https://img.shields.io/github/last-commit/secdev/scapy)
 * [easysnmp](https://github.com/easysnmp/easysnmp) ⚠️ Archived - A fork of [net-snmp Python bindings](http://www.net-snmp.org/wiki/index.php/Python_Bindings) that attempts to bring a more Pythonic interface to the library. ![GitHub last commit](https://img.shields.io/github/last-commit/easysnmp/easysnmp)
 * [snimpy](https://github.com/vincentbernat/snimpy) ⭐ 192 | 🐛 21 | 🌐 Python | 📅 2026-08-01 - Snimpy is a Python-based tool providing a simple interface to build SNMP query. ![GitHub last commit](https://img.shields.io/github/last-commit/vincentbernat/snimpy)
 * [pysnmp](https://github.com/lextudio/pysnmp) ⭐ 159 | 🐛 34 | 🌐 Python | 📅 2026-09-02 - This is a pure-Python, open source and free implementation of v1/v2c/v3 SNMP engine distributed under 2-clause BSD license.
@@ -99,7 +99,7 @@ This is a curated list of awesome SNMP libraries, tools, and other resources. Co
 * [hnmp](https://github.com/trehn/hnmp) ⭐ 50 | 🐛 3 | 🌐 Python | 📅 2021-11-28 - HNMP is a high-level Python library to ease the pain of retrieving and processing data from SNMP-capable devices such as network switches, routers, and printers. ![GitHub last commit](https://img.shields.io/github/last-commit/trehn/hnmp)
 * [gufo\_snmp](https://github.com/gufolabs/gufo_snmp) ⭐ 24 | 🐛 7 | 🌐 Rust | 📅 2026-04-13 - The accelerated Python SNMP client library supporting both async and synchronous mode. It consists of a clean Python API for high-efficient BER parser and socket IO, implemented in the Rust language with PyO3 wrapper. Seems to be a bit early in the project's lifecycle, but it is easy to use and ***extremely*** fast, especially when querying many devices. ![GitHub last commit](https://img.shields.io/github/last-commit/gufolabs/gufo_snmp)
 * [pysmi](https://github.com/lextudio/pysmi) ⭐ 10 | 🐛 3 | 🌐 Python | 📅 2026-04-26 - PySMI is a pure-Python implementation of SNMP SMI MIB parser.
-  * This project is derived from [the original repo](https://github.com/etingof/pysmi) ⭐ 144 | 🐛 23 | 🌐 Python | 📅 2023-07-21.
+  * This project is derived from [the original repo](https://github.com/etingof/pysmi) ⭐ 145 | 🐛 23 | 🌐 Python | 📅 2023-07-21.
 * [robotframework-snmplibrary](https://github.com/kontron/robotframework-snmplibrary) ⭐ 9 | 🐛 16 | 🌐 Python | 📅 2023-01-04 - SNMPLibrary is a Robot Framework test library for testing SNMP. ![GitHub last commit](https://img.shields.io/github/last-commit/kontron/robotframework-snmplibrary)
 * [net-snmp Python bindings](http://www.net-snmp.org/wiki/index.php/Python_Bindings) - Net-SNMP 5.4 and later contains Python bindings in the "python" sub-directory, though, they are not built by default. ![GitHub last commit](https://img.shields.io/github/last-commit/net-snmp/net-snmp)
 
@@ -121,8 +121,8 @@ This is a curated list of awesome SNMP libraries, tools, and other resources. Co
 
 ### CLIs
 
-* [prometheus/snmp\_exporter](https://github.com/prometheus/snmp_exporter) ⭐ 2,169 | 🐛 104 | 🌐 Go | 📅 2026-09-08 - This exporter is the recommended way to expose SNMP data in a format which Prometheus can ingest.
-* [trailofbits/onesixtyone](https://github.com/trailofbits/onesixtyone) ⭐ 728 | 🐛 7 | 🌐 C | 📅 2025-08-30 - Fast SNMP Scanner.
+* [prometheus/snmp\_exporter](https://github.com/prometheus/snmp_exporter) ⭐ 2,169 | 🐛 104 | 🌐 Go | 📅 2026-09-16 - This exporter is the recommended way to expose SNMP data in a format which Prometheus can ingest.
+* [trailofbits/onesixtyone](https://github.com/trailofbits/onesixtyone) ⭐ 730 | 🐛 7 | 🌐 C | 📅 2025-08-30 - Fast SNMP Scanner.
 * [snmpsim](https://github.com/etingof/snmpsim) ⭐ 455 | 🐛 80 | 🌐 Python | 📅 2023-07-24 - This is a pure-Python, open source and free implementation of SNMP agents simulator distributed under 2-clause BSD license.
 * [SECFORCE/SNMP-Brute](https://github.com/SECFORCE/SNMP-Brute) ⭐ 333 | 🐛 0 | 🌐 Python | 📅 2021-09-13 - Fast SNMP brute force, enumeration, CISCO config downloader and password cracking script.
 * [snmpwn](https://github.com/hatlord/snmpwn) ⭐ 270 | 🐛 0 | 🌐 Ruby | 📅 2020-08-23 - SNMPwn is an SNMPv3 user enumerator and attack tool.
@@ -274,4 +274,4 @@ Please take a quick look at the [contribution guidelines](contributing.md) first
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-16._
