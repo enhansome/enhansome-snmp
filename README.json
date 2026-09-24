@@ -94,7 +94,7 @@
                 "open_issues": 63,
                 "owner": "gosnmp",
                 "repo": "gosnmp",
-                "stars": 1253,
+                "stars": 1254,
                 "topics": [
                   "go",
                   "golang",
@@ -328,8 +328,8 @@
                 "id": 4597290,
                 "language": "PHP",
                 "license": "NOASSERTION",
-                "last_commit": "2026-02-11T21:23:44Z",
-                "open_issues": 1,
+                "last_commit": "2026-09-23T20:39:19Z",
+                "open_issues": 0,
                 "owner": "opensolutions",
                 "repo": "OSS_SNMP",
                 "stars": 110,
@@ -384,11 +384,11 @@
                 "id": 43509302,
                 "language": "Python",
                 "license": "GPL-2.0",
-                "last_commit": "2026-09-22T23:45:22Z",
-                "open_issues": 139,
+                "last_commit": "2026-09-23T22:31:03Z",
+                "open_issues": 136,
                 "owner": "secdev",
                 "repo": "scapy",
-                "stars": 12561,
+                "stars": 12565,
                 "topics": [
                   "hacktoberfest",
                   "network",
@@ -850,7 +850,7 @@
                 "open_issues": 103,
                 "owner": "prometheus",
                 "repo": "snmp_exporter",
-                "stars": 2176,
+                "stars": 2177,
                 "topics": [
                   "metrics",
                   "mib",
@@ -1002,7 +1002,7 @@
                 "open_issues": 18,
                 "owner": "zabbix-tools",
                 "repo": "mib2zabbix",
-                "stars": 241,
+                "stars": 242,
                 "topics": [
                   "snmp",
                   "zabbix",
@@ -1284,7 +1284,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-23T15:35:05.555Z",
+    "last_updated": "2026-09-24T15:56:28.086Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome SNMP libraries, tools, and other resources.",
