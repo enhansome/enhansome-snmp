@@ -388,7 +388,7 @@
                 "open_issues": 138,
                 "owner": "secdev",
                 "repo": "scapy",
-                "stars": 12565,
+                "stars": 12566,
                 "topics": [
                   "hacktoberfest",
                   "network",
@@ -1284,7 +1284,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-25T15:55:58.623Z",
+    "last_updated": "2026-09-26T15:07:37.316Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome SNMP libraries, tools, and other resources.",
