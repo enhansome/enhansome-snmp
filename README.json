@@ -388,7 +388,7 @@
                 "open_issues": 139,
                 "owner": "secdev",
                 "repo": "scapy",
-                "stars": 12578,
+                "stars": 12580,
                 "topics": [
                   "hacktoberfest",
                   "network",
@@ -468,7 +468,7 @@
                 {
                   "node_type": "item",
                   "title": "This project is derived from the original repo",
-                  "description": ".",
+                  "description": "etingof/pysnmp",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -648,7 +648,7 @@
                 {
                   "node_type": "item",
                   "title": "This project is derived from the original repo",
-                  "description": ".",
+                  "description": "etingof/pysmi",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -878,7 +878,7 @@
                 "open_issues": 7,
                 "owner": "trailofbits",
                 "repo": "onesixtyone",
-                "stars": 736,
+                "stars": 737,
                 "topics": [
                   "network-security",
                   "snmp"
@@ -1284,7 +1284,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T16:50:26.443Z",
+    "last_updated": "2026-10-03T05:09:47.686Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome SNMP libraries, tools, and other resources.",
