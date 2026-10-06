@@ -385,10 +385,10 @@
                 "language": "Python",
                 "license": "GPL-2.0",
                 "last_commit": "2026-10-02T16:16:06Z",
-                "open_issues": 146,
+                "open_issues": 147,
                 "owner": "secdev",
                 "repo": "scapy",
-                "stars": 12586,
+                "stars": 12587,
                 "topics": [
                   "hacktoberfest",
                   "network",
@@ -1284,7 +1284,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-05T20:14:23.082Z",
+    "last_updated": "2026-10-06T10:39:00.562Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome SNMP libraries, tools, and other resources.",
