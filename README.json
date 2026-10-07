@@ -384,11 +384,11 @@
                 "id": 43509302,
                 "language": "Python",
                 "license": "GPL-2.0",
-                "last_commit": "2026-10-02T16:16:06Z",
-                "open_issues": 147,
+                "last_commit": "2026-10-06T23:14:03Z",
+                "open_issues": 148,
                 "owner": "secdev",
                 "repo": "scapy",
-                "stars": 12588,
+                "stars": 12593,
                 "topics": [
                   "hacktoberfest",
                   "network",
@@ -452,7 +452,7 @@
                 "open_issues": 21,
                 "owner": "vincentbernat",
                 "repo": "snimpy",
-                "stars": 193,
+                "stars": 194,
                 "topics": [
                   "python",
                   "snmp"
@@ -846,8 +846,8 @@
                 "id": 31185891,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-05T16:05:35Z",
-                "open_issues": 102,
+                "last_commit": "2026-10-07T13:55:47Z",
+                "open_issues": 101,
                 "owner": "prometheus",
                 "repo": "snmp_exporter",
                 "stars": 2181,
@@ -1183,7 +1183,7 @@
                 "id": 669644544,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-29T02:00:16Z",
+                "last_commit": "2026-10-06T22:12:38Z",
                 "open_issues": 0,
                 "owner": "twsnmp",
                 "repo": "twsnmpfk",
@@ -1284,7 +1284,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T17:25:41.856Z",
+    "last_updated": "2026-10-07T17:58:25.283Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome SNMP libraries, tools, and other resources.",
