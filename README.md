@@ -48,7 +48,7 @@ This is a curated list of awesome SNMP libraries, tools, and other resources. Co
 ### C\#
 
 * [C# SNMP Library](https://github.com/lextudio/sharpsnmplib) ⭐ 406 | 🐛 10 | 🌐 C# | 📅 2026-09-28 - MIT licensed SNMP library for .NET with extensive SNMP standard support, latest .NET platform targets, as well as rich manager/agent samples.
-* [SnmpSharpNet](https://github.com/rqx110/SnmpSharpNet) ⭐ 84 | 🐛 9 | 🌐 C# | 📅 2025-01-25 - Simple Network Management Protocol (SNMP) .Net library written in C# (csharp). Implements protocol version 1, 2 and 3.
+* [SnmpSharpNet](https://github.com/rqx110/SnmpSharpNet) ⭐ 85 | 🐛 9 | 🌐 C# | 📅 2025-01-25 - Simple Network Management Protocol (SNMP) .Net library written in C# (csharp). Implements protocol version 1, 2 and 3.
 * [SNMP Pro](https://pro.sharpsnmp.com) - Commercial extension that adds enterprise MIB support.
 
 ### Erlang
@@ -88,7 +88,7 @@ This is a curated list of awesome SNMP libraries, tools, and other resources. Co
 
 ### Python
 
-* [Scapy](https://github.com/secdev/scapy) ⭐ 12,593 | 🐛 148 | 🌐 Python | 📅 2026-10-06 - Packet manipulation program & library. Scapy has a [module](https://github.com/secdev/scapy/blob/master/scapy/layers/snmp.py) ⭐ 12,593 | 🐛 148 | 🌐 Python | 📅 2026-10-06 to build/dissect SNMP packets. ![GitHub last commit](https://img.shields.io/github/last-commit/secdev/scapy)
+* [Scapy](https://github.com/secdev/scapy) ⭐ 12,595 | 🐛 149 | 🌐 Python | 📅 2026-10-06 - Packet manipulation program & library. Scapy has a [module](https://github.com/secdev/scapy/blob/master/scapy/layers/snmp.py) ⭐ 12,595 | 🐛 149 | 🌐 Python | 📅 2026-10-06 to build/dissect SNMP packets. ![GitHub last commit](https://img.shields.io/github/last-commit/secdev/scapy)
 * [easysnmp](https://github.com/easysnmp/easysnmp) ⚠️ Archived - A fork of [net-snmp Python bindings](http://www.net-snmp.org/wiki/index.php/Python_Bindings) that attempts to bring a more Pythonic interface to the library. ![GitHub last commit](https://img.shields.io/github/last-commit/easysnmp/easysnmp)
 * [snimpy](https://github.com/vincentbernat/snimpy) ⭐ 194 | 🐛 21 | 🌐 Python | 📅 2026-08-01 - Snimpy is a Python-based tool providing a simple interface to build SNMP query. ![GitHub last commit](https://img.shields.io/github/last-commit/vincentbernat/snimpy)
 * [pysnmp](https://github.com/lextudio/pysnmp) ⭐ 159 | 🐛 24 | 🌐 Python | 📅 2026-09-28 - This is a pure-Python, open source and free implementation of v1/v2c/v3 SNMP engine distributed under 2-clause BSD license.
@@ -121,8 +121,8 @@ This is a curated list of awesome SNMP libraries, tools, and other resources. Co
 
 ### CLIs
 
-* [prometheus/snmp\_exporter](https://github.com/prometheus/snmp_exporter) ⭐ 2,181 | 🐛 101 | 🌐 Go | 📅 2026-10-07 - This exporter is the recommended way to expose SNMP data in a format which Prometheus can ingest.
-* [trailofbits/onesixtyone](https://github.com/trailofbits/onesixtyone) ⭐ 739 | 🐛 7 | 🌐 C | 📅 2025-08-30 - Fast SNMP Scanner.
+* [prometheus/snmp\_exporter](https://github.com/prometheus/snmp_exporter) ⭐ 2,182 | 🐛 101 | 🌐 Go | 📅 2026-10-07 - This exporter is the recommended way to expose SNMP data in a format which Prometheus can ingest.
+* [trailofbits/onesixtyone](https://github.com/trailofbits/onesixtyone) ⭐ 740 | 🐛 7 | 🌐 C | 📅 2025-08-30 - Fast SNMP Scanner.
 * [snmpsim](https://github.com/etingof/snmpsim) ⭐ 455 | 🐛 80 | 🌐 Python | 📅 2023-07-24 - This is a pure-Python, open source and free implementation of SNMP agents simulator distributed under 2-clause BSD license.
 * [SECFORCE/SNMP-Brute](https://github.com/SECFORCE/SNMP-Brute) ⭐ 334 | 🐛 0 | 🌐 Python | 📅 2021-09-13 - Fast SNMP brute force, enumeration, CISCO config downloader and password cracking script.
 * [snmpwn](https://github.com/hatlord/snmpwn) ⭐ 271 | 🐛 0 | 🌐 Ruby | 📅 2020-08-23 - SNMPwn is an SNMPv3 user enumerator and attack tool.
@@ -244,7 +244,7 @@ This is a curated list of awesome SNMP libraries, tools, and other resources. Co
 
 ## MIB repositories
 
-* [hsnodgrass/snmp\_mib\_archive](https://github.com/hsnodgrass/snmp_mib_archive) ⭐ 187 | 🐛 1 | 🌐 Shell | 📅 2018-11-06 - An archive of over 3000 unique SNMP MIBs.
+* [hsnodgrass/snmp\_mib\_archive](https://github.com/hsnodgrass/snmp_mib_archive) ⭐ 188 | 🐛 1 | 🌐 Shell | 📅 2018-11-06 - An archive of over 3000 unique SNMP MIBs.
 * [kcsinclair/mibs](https://github.com/kcsinclair/mibs) ⭐ 78 | 🐛 1 | 🌐 Perl | 📅 2026-07-01 - Another collection of MIBS used for SNMP. Make sure to clone the repository to see the full list of MIBs.
 * [mibdepot.com](http://www.mibdepot.com) - mibDepot is a free service to the SNMP community and offers a dictionary of MIBs and a unique-in-the-industry Search Engine with over 12,000 SNMP MIBs representing over 1,800,000 MIB object definitions.
 * [oid-info.com](http://oid-info.com) - This OID repository gathers information about Object Identifiers (OIDs), and provides tools to display, update and search for this information.
@@ -274,4 +274,4 @@ Please take a quick look at the [contribution guidelines](contributing.md) first
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-08._

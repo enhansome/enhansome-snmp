@@ -63,7 +63,7 @@
                 "open_issues": 9,
                 "owner": "rqx110",
                 "repo": "SnmpSharpNet",
-                "stars": 84,
+                "stars": 85,
                 "topics": [
                   "csharp",
                   "snmp"
@@ -385,10 +385,10 @@
                 "language": "Python",
                 "license": "GPL-2.0",
                 "last_commit": "2026-10-06T23:14:03Z",
-                "open_issues": 148,
+                "open_issues": 149,
                 "owner": "secdev",
                 "repo": "scapy",
-                "stars": 12593,
+                "stars": 12595,
                 "topics": [
                   "hacktoberfest",
                   "network",
@@ -850,7 +850,7 @@
                 "open_issues": 101,
                 "owner": "prometheus",
                 "repo": "snmp_exporter",
-                "stars": 2181,
+                "stars": 2182,
                 "topics": [
                   "metrics",
                   "mib",
@@ -878,7 +878,7 @@
                 "open_issues": 7,
                 "owner": "trailofbits",
                 "repo": "onesixtyone",
-                "stars": 739,
+                "stars": 740,
                 "topics": [
                   "network-security",
                   "snmp"
@@ -1239,7 +1239,7 @@
             "open_issues": 1,
             "owner": "hsnodgrass",
             "repo": "snmp_mib_archive",
-            "stars": 187,
+            "stars": 188,
             "topics": [
               "mib",
               "snmp"
@@ -1284,7 +1284,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T17:58:25.283Z",
+    "last_updated": "2026-10-08T18:00:32.314Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome SNMP libraries, tools, and other resources.",
