@@ -230,8 +230,8 @@
                 "id": 42960114,
                 "language": "JavaScript",
                 "license": null,
-                "last_commit": "2026-09-13T05:07:54Z",
-                "open_issues": 9,
+                "last_commit": "2026-10-09T09:05:54Z",
+                "open_issues": 11,
                 "owner": "markabrahams",
                 "repo": "node-net-snmp",
                 "stars": 234,
@@ -388,7 +388,7 @@
                 "open_issues": 149,
                 "owner": "secdev",
                 "repo": "scapy",
-                "stars": 12595,
+                "stars": 12599,
                 "topics": [
                   "hacktoberfest",
                   "network",
@@ -504,7 +504,7 @@
                 "open_issues": 24,
                 "owner": "lextudio",
                 "repo": "pysnmp",
-                "stars": 159,
+                "stars": 160,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:32:01.588Z"
@@ -847,10 +847,10 @@
                 "language": "Go",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-07T13:55:47Z",
-                "open_issues": 101,
+                "open_issues": 102,
                 "owner": "prometheus",
                 "repo": "snmp_exporter",
-                "stars": 2182,
+                "stars": 2184,
                 "topics": [
                   "metrics",
                   "mib",
@@ -1284,7 +1284,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T18:00:32.314Z",
+    "last_updated": "2026-10-09T17:33:38.051Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome SNMP libraries, tools, and other resources.",
@@ -1296,7 +1296,7 @@
       "open_issues": 5,
       "owner": "eozer",
       "repo": "awesome-snmp",
-      "stars": 193,
+      "stars": 194,
       "topics": [
         "awesome",
         "awesome-list",
