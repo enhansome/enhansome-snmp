@@ -199,27 +199,6 @@
           "children": [
             {
               "node_type": "item",
-              "title": "node-snmp-native",
-              "description": "Native JavaScript SNMP library for Node.js.",
-              "children": [],
-              "repo_info": {
-                "archived": true,
-                "description": "Native Javascript SNMP library for Node.js",
-                "homepage": null,
-                "id": 3098126,
-                "language": "JavaScript",
-                "license": "MIT",
-                "last_commit": "2020-06-03T16:06:44Z",
-                "open_issues": 18,
-                "owner": "calmh",
-                "repo": "node-snmp-native",
-                "stars": 255,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T21:32:01.588Z"
-            },
-            {
-              "node_type": "item",
               "title": "node-net-snmp",
               "description": "JavaScript implementation of the Simple Network Management Protocol (SNMP), implements versions 1, 2c and 3.",
               "children": [],
@@ -384,8 +363,8 @@
                 "id": 43509302,
                 "language": "Python",
                 "license": "GPL-2.0",
-                "last_commit": "2026-10-06T23:14:03Z",
-                "open_issues": 149,
+                "last_commit": "2026-10-10T15:21:15Z",
+                "open_issues": 146,
                 "owner": "secdev",
                 "repo": "scapy",
                 "stars": 12599,
@@ -448,8 +427,8 @@
                 "id": 1396646,
                 "language": "Python",
                 "license": null,
-                "last_commit": "2026-08-01T15:12:20Z",
-                "open_issues": 21,
+                "last_commit": "2026-10-10T00:39:17Z",
+                "open_issues": 20,
                 "owner": "vincentbernat",
                 "repo": "snimpy",
                 "stars": 194,
@@ -846,7 +825,7 @@
                 "id": 31185891,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-07T13:55:47Z",
+                "last_commit": "2026-10-10T13:24:13Z",
                 "open_issues": 102,
                 "owner": "prometheus",
                 "repo": "snmp_exporter",
@@ -1284,7 +1263,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T17:33:38.051Z",
+    "last_updated": "2026-10-10T16:23:33.993Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome SNMP libraries, tools, and other resources.",
