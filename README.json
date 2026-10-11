@@ -363,8 +363,8 @@
                 "id": 43509302,
                 "language": "Python",
                 "license": "GPL-2.0",
-                "last_commit": "2026-10-10T15:21:15Z",
-                "open_issues": 146,
+                "last_commit": "2026-10-11T00:35:34Z",
+                "open_issues": 143,
                 "owner": "secdev",
                 "repo": "scapy",
                 "stars": 12599,
@@ -1162,7 +1162,7 @@
                 "id": 669644544,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-06T22:12:38Z",
+                "last_commit": "2026-10-11T00:15:00Z",
                 "open_issues": 0,
                 "owner": "twsnmp",
                 "repo": "twsnmpfk",
@@ -1263,7 +1263,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T16:23:33.993Z",
+    "last_updated": "2026-10-11T16:47:43.641Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome SNMP libraries, tools, and other resources.",
