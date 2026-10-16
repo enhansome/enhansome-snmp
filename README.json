@@ -367,7 +367,7 @@
                 "open_issues": 146,
                 "owner": "secdev",
                 "repo": "scapy",
-                "stars": 12608,
+                "stars": 12610,
                 "topics": [
                   "hacktoberfest",
                   "network",
@@ -829,7 +829,7 @@
                 "open_issues": 99,
                 "owner": "prometheus",
                 "repo": "snmp_exporter",
-                "stars": 2186,
+                "stars": 2187,
                 "topics": [
                   "metrics",
                   "mib",
@@ -1162,7 +1162,7 @@
                 "id": 669644544,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-13T20:25:33Z",
+                "last_commit": "2026-10-16T11:03:12Z",
                 "open_issues": 0,
                 "owner": "twsnmp",
                 "repo": "twsnmpfk",
@@ -1263,7 +1263,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-15T15:45:31.511Z",
+    "last_updated": "2026-10-16T15:34:50.479Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome SNMP libraries, tools, and other resources.",

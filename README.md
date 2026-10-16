@@ -88,7 +88,7 @@ This is a curated list of awesome SNMP libraries, tools, and other resources. Co
 
 ### Python
 
-* [Scapy](https://github.com/secdev/scapy) ⭐ 12,608 | 🐛 146 | 🌐 Python | 📅 2026-10-11 - Packet manipulation program & library. Scapy has a [module](https://github.com/secdev/scapy/blob/master/scapy/layers/snmp.py) ⭐ 12,608 | 🐛 146 | 🌐 Python | 📅 2026-10-11 to build/dissect SNMP packets. ![GitHub last commit](https://img.shields.io/github/last-commit/secdev/scapy)
+* [Scapy](https://github.com/secdev/scapy) ⭐ 12,610 | 🐛 146 | 🌐 Python | 📅 2026-10-11 - Packet manipulation program & library. Scapy has a [module](https://github.com/secdev/scapy/blob/master/scapy/layers/snmp.py) ⭐ 12,610 | 🐛 146 | 🌐 Python | 📅 2026-10-11 to build/dissect SNMP packets. ![GitHub last commit](https://img.shields.io/github/last-commit/secdev/scapy)
 * [easysnmp](https://github.com/easysnmp/easysnmp) ⚠️ Archived - A fork of [net-snmp Python bindings](http://www.net-snmp.org/wiki/index.php/Python_Bindings) that attempts to bring a more Pythonic interface to the library. ![GitHub last commit](https://img.shields.io/github/last-commit/easysnmp/easysnmp)
 * [snimpy](https://github.com/vincentbernat/snimpy) ⭐ 194 | 🐛 20 | 🌐 Python | 📅 2026-10-10 - Snimpy is a Python-based tool providing a simple interface to build SNMP query. ![GitHub last commit](https://img.shields.io/github/last-commit/vincentbernat/snimpy)
 * [pysnmp](https://github.com/lextudio/pysnmp) ⭐ 160 | 🐛 24 | 🌐 Python | 📅 2026-09-28 - This is a pure-Python, open source and free implementation of v1/v2c/v3 SNMP engine distributed under 2-clause BSD license.
@@ -121,7 +121,7 @@ This is a curated list of awesome SNMP libraries, tools, and other resources. Co
 
 ### CLIs
 
-* [prometheus/snmp\_exporter](https://github.com/prometheus/snmp_exporter) ⭐ 2,186 | 🐛 99 | 🌐 Go | 📅 2026-10-14 - This exporter is the recommended way to expose SNMP data in a format which Prometheus can ingest.
+* [prometheus/snmp\_exporter](https://github.com/prometheus/snmp_exporter) ⭐ 2,187 | 🐛 99 | 🌐 Go | 📅 2026-10-14 - This exporter is the recommended way to expose SNMP data in a format which Prometheus can ingest.
 * [trailofbits/onesixtyone](https://github.com/trailofbits/onesixtyone) ⭐ 740 | 🐛 7 | 🌐 C | 📅 2025-08-30 - Fast SNMP Scanner.
 * [snmpsim](https://github.com/etingof/snmpsim) ⭐ 455 | 🐛 80 | 🌐 Python | 📅 2023-07-24 - This is a pure-Python, open source and free implementation of SNMP agents simulator distributed under 2-clause BSD license.
 * [SECFORCE/SNMP-Brute](https://github.com/SECFORCE/SNMP-Brute) ⭐ 334 | 🐛 0 | 🌐 Python | 📅 2021-09-13 - Fast SNMP brute force, enumeration, CISCO config downloader and password cracking script.
@@ -175,7 +175,7 @@ This is a curated list of awesome SNMP libraries, tools, and other resources. Co
 
 * [toni-moreno/snmpcollector](https://github.com/toni-moreno/snmpcollector) ⭐ 304 | 🐛 44 | 🌐 Go | 📅 2023-12-18 - SnmpCollector is a full featured Generic SNMP data collector with Web Administration Interface Open Source tool which has as main goal simplify the configuration for getting data from any device which snmp protocol support and send resulting data to an influxdb backend.
 * [Visual SNMP](https://github.com/sisraell/VisualSNMP) ⭐ 13 | 🐛 2 | 🌐 JavaScript | 📅 2017-01-17 - Visual SNMP is a simple tool for testing access to SNMP agents. Currently SNMPGET and SNMPWALK are supported with some limited funcionality.
-* [TWSNMP FK](https://github.com/twsnmp/twsnmpfk) ⭐ 9 | 🐛 0 | 🌐 Go | 📅 2026-10-13 - An ultra-lightweight SNMP manager for Windows and Mac OS, featuring network mapping, polling, and AI analysis.
+* [TWSNMP FK](https://github.com/twsnmp/twsnmpfk) ⭐ 9 | 🐛 0 | 🌐 Go | 📅 2026-10-16 - An ultra-lightweight SNMP manager for Windows and Mac OS, featuring network mapping, polling, and AI analysis.
 * [tkmib](http://www.net-snmp.org/) - A perl/Tk interactive graphical MIB browser for SNMP.
 * [agentpp/MIB Designer](https://www.agentpp.com/tools/mibdesigner.html) - Use MIB Designer to create, edit, manage, and explore SMI specifications (`Commercial`).
 * [agentpp/MIB Explorer Pro](https://www.agentpp.com/tools/mibexplorer.html) - Use MIB Explorer to browse, configure, test\&debug, monitor, and discover SNMPv1/2c/3 entities.
@@ -274,4 +274,4 @@ Please take a quick look at the [contribution guidelines](contributing.md) first
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-16._
