@@ -90,8 +90,8 @@
                 "id": 5567243,
                 "language": "Go",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-25T10:20:44Z",
-                "open_issues": 32,
+                "last_commit": "2026-10-26T08:17:44Z",
+                "open_issues": 31,
                 "owner": "gosnmp",
                 "repo": "gosnmp",
                 "stars": 1257,
@@ -209,8 +209,8 @@
                 "id": 42960114,
                 "language": "JavaScript",
                 "license": null,
-                "last_commit": "2026-10-09T09:05:54Z",
-                "open_issues": 11,
+                "last_commit": "2026-10-26T09:48:20Z",
+                "open_issues": 8,
                 "owner": "markabrahams",
                 "repo": "node-net-snmp",
                 "stars": 234,
@@ -363,11 +363,11 @@
                 "id": 43509302,
                 "language": "Python",
                 "license": "GPL-2.0",
-                "last_commit": "2026-10-25T12:00:30Z",
-                "open_issues": 149,
+                "last_commit": "2026-10-25T20:07:59Z",
+                "open_issues": 150,
                 "owner": "secdev",
                 "repo": "scapy",
-                "stars": 12650,
+                "stars": 12651,
                 "topics": [
                   "hacktoberfest",
                   "network",
@@ -500,7 +500,7 @@
                 "id": 67870999,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-03-16T15:14:24Z",
+                "last_commit": "2026-10-26T08:35:30Z",
                 "open_issues": 38,
                 "owner": "exhuma",
                 "repo": "puresnmp",
@@ -829,7 +829,7 @@
                 "open_issues": 100,
                 "owner": "prometheus",
                 "repo": "snmp_exporter",
-                "stars": 2191,
+                "stars": 2190,
                 "topics": [
                   "metrics",
                   "mib",
@@ -857,7 +857,7 @@
                 "open_issues": 7,
                 "owner": "trailofbits",
                 "repo": "onesixtyone",
-                "stars": 740,
+                "stars": 742,
                 "topics": [
                   "network-security",
                   "snmp"
@@ -1263,7 +1263,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-25T15:03:53.344Z",
+    "last_updated": "2026-10-26T17:39:32.689Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome SNMP libraries, tools, and other resources.",
