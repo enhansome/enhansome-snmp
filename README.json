@@ -91,7 +91,7 @@
                 "language": "Go",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-27T07:07:48Z",
-                "open_issues": 28,
+                "open_issues": 29,
                 "owner": "gosnmp",
                 "repo": "gosnmp",
                 "stars": 1257,
@@ -363,11 +363,11 @@
                 "id": 43509302,
                 "language": "Python",
                 "license": "GPL-2.0",
-                "last_commit": "2026-10-25T20:07:59Z",
+                "last_commit": "2026-10-28T13:17:44Z",
                 "open_issues": 152,
                 "owner": "secdev",
                 "repo": "scapy",
-                "stars": 12656,
+                "stars": 12655,
                 "topics": [
                   "hacktoberfest",
                   "network",
@@ -500,8 +500,8 @@
                 "id": 67870999,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-26T08:35:30Z",
-                "open_issues": 38,
+                "last_commit": "2026-10-28T07:16:56Z",
+                "open_issues": 67,
                 "owner": "exhuma",
                 "repo": "puresnmp",
                 "stars": 88,
@@ -881,7 +881,7 @@
                 "open_issues": 80,
                 "owner": "etingof",
                 "repo": "snmpsim",
-                "stars": 456,
+                "stars": 455,
                 "topics": [
                   "gather-simulation-data",
                   "simulated-data",
@@ -1263,7 +1263,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-27T16:52:22.021Z",
+    "last_updated": "2026-10-28T17:26:32.227Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome SNMP libraries, tools, and other resources.",
