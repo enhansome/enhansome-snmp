@@ -91,7 +91,7 @@
                 "language": "Go",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-27T07:07:48Z",
-                "open_issues": 31,
+                "open_issues": 32,
                 "owner": "gosnmp",
                 "repo": "gosnmp",
                 "stars": 1257,
@@ -367,7 +367,7 @@
                 "open_issues": 153,
                 "owner": "secdev",
                 "repo": "scapy",
-                "stars": 12656,
+                "stars": 12661,
                 "topics": [
                   "hacktoberfest",
                   "network",
@@ -460,7 +460,7 @@
                     "open_issues": 215,
                     "owner": "etingof",
                     "repo": "pysnmp",
-                    "stars": 615,
+                    "stars": 614,
                     "topics": [
                       "mib",
                       "pysnmp",
@@ -500,8 +500,8 @@
                 "id": 67870999,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-28T07:16:56Z",
-                "open_issues": 67,
+                "last_commit": "2026-10-30T08:51:00Z",
+                "open_issues": 69,
                 "owner": "exhuma",
                 "repo": "puresnmp",
                 "stars": 88,
@@ -857,7 +857,7 @@
                 "open_issues": 7,
                 "owner": "trailofbits",
                 "repo": "onesixtyone",
-                "stars": 742,
+                "stars": 743,
                 "topics": [
                   "network-security",
                   "snmp"
@@ -900,7 +900,7 @@
               "repo_info": {
                 "archived": false,
                 "description": "Fast SNMP brute force, enumeration, CISCO config downloader and password cracking script.",
-                "homepage": null,
+                "homepage": "https://www.secforce.com/",
                 "id": 28965110,
                 "language": "Python",
                 "license": "GPL-3.0",
@@ -909,7 +909,12 @@
                 "owner": "SECFORCE",
                 "repo": "SNMP-Brute",
                 "stars": 334,
-                "topics": []
+                "topics": [
+                  "infosec",
+                  "pentesting",
+                  "pentesting-tool",
+                  "snmp"
+                ]
               },
               "first_seen": "2026-08-28T21:32:01.588Z"
             },
@@ -981,7 +986,7 @@
                 "open_issues": 18,
                 "owner": "zabbix-tools",
                 "repo": "mib2zabbix",
-                "stars": 242,
+                "stars": 241,
                 "topics": [
                   "snmp",
                   "zabbix",
@@ -1162,7 +1167,7 @@
                 "id": 669644544,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-27T01:40:36Z",
+                "last_commit": "2026-10-30T08:08:13Z",
                 "open_issues": 0,
                 "owner": "twsnmp",
                 "repo": "twsnmpfk",
@@ -1263,7 +1268,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T17:34:40.383Z",
+    "last_updated": "2026-10-30T17:14:42.142Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome SNMP libraries, tools, and other resources.",
