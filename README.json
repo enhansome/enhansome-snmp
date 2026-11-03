@@ -90,11 +90,11 @@
                 "id": 5567243,
                 "language": "Go",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-02T13:07:03Z",
-                "open_issues": 37,
+                "last_commit": "2026-11-03T14:23:56Z",
+                "open_issues": 34,
                 "owner": "gosnmp",
                 "repo": "gosnmp",
-                "stars": 1257,
+                "stars": 1258,
                 "topics": [
                   "go",
                   "golang",
@@ -363,11 +363,11 @@
                 "id": 43509302,
                 "language": "Python",
                 "license": "GPL-2.0",
-                "last_commit": "2026-11-01T18:01:32Z",
-                "open_issues": 156,
+                "last_commit": "2026-11-03T02:15:22Z",
+                "open_issues": 154,
                 "owner": "secdev",
                 "repo": "scapy",
-                "stars": 12669,
+                "stars": 12671,
                 "topics": [
                   "hacktoberfest",
                   "network",
@@ -479,7 +479,7 @@
                 "id": 562745461,
                 "language": "Python",
                 "license": "BSD-2-Clause",
-                "last_commit": "2026-09-28T10:27:01Z",
+                "last_commit": "2026-11-03T08:24:16Z",
                 "open_issues": 25,
                 "owner": "lextudio",
                 "repo": "pysnmp",
@@ -1268,7 +1268,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-02T20:53:17.631Z",
+    "last_updated": "2026-11-03T18:40:00.442Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome SNMP libraries, tools, and other resources.",
