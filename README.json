@@ -364,10 +364,10 @@
                 "language": "Python",
                 "license": "GPL-2.0",
                 "last_commit": "2026-11-04T14:04:25Z",
-                "open_issues": 149,
+                "open_issues": 150,
                 "owner": "secdev",
                 "repo": "scapy",
-                "stars": 12677,
+                "stars": 12679,
                 "topics": [
                   "network",
                   "network-analysis",
@@ -907,7 +907,7 @@
                 "open_issues": 0,
                 "owner": "SECFORCE",
                 "repo": "SNMP-Brute",
-                "stars": 334,
+                "stars": 333,
                 "topics": [
                   "infosec",
                   "pentesting",
@@ -1267,7 +1267,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-05T19:03:01.607Z",
+    "last_updated": "2026-11-06T18:31:16.009Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome SNMP libraries, tools, and other resources.",
