@@ -367,7 +367,7 @@
                 "open_issues": 151,
                 "owner": "secdev",
                 "repo": "scapy",
-                "stars": 12681,
+                "stars": 12683,
                 "topics": [
                   "network",
                   "network-analysis",
@@ -479,7 +479,7 @@
                 "language": "Python",
                 "license": "BSD-2-Clause",
                 "last_commit": "2026-11-07T13:05:34Z",
-                "open_issues": 25,
+                "open_issues": 26,
                 "owner": "lextudio",
                 "repo": "pysnmp",
                 "stars": 160,
@@ -825,7 +825,7 @@
                 "language": "Go",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-29T17:00:20Z",
-                "open_issues": 105,
+                "open_issues": 106,
                 "owner": "prometheus",
                 "repo": "snmp_exporter",
                 "stars": 2195,
@@ -1267,7 +1267,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T17:00:02.830Z",
+    "last_updated": "2026-11-08T17:15:16.648Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome SNMP libraries, tools, and other resources.",
