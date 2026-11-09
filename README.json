@@ -363,8 +363,8 @@
                 "id": 43509302,
                 "language": "Python",
                 "license": "GPL-2.0",
-                "last_commit": "2026-11-04T14:04:25Z",
-                "open_issues": 151,
+                "last_commit": "2026-11-08T19:56:14Z",
+                "open_issues": 150,
                 "owner": "secdev",
                 "repo": "scapy",
                 "stars": 12683,
@@ -824,11 +824,11 @@
                 "id": 31185891,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-29T17:00:20Z",
-                "open_issues": 106,
+                "last_commit": "2026-11-09T19:55:24Z",
+                "open_issues": 108,
                 "owner": "prometheus",
                 "repo": "snmp_exporter",
-                "stars": 2195,
+                "stars": 2196,
                 "topics": [
                   "metrics",
                   "mib",
@@ -880,7 +880,7 @@
                 "open_issues": 80,
                 "owner": "etingof",
                 "repo": "snmpsim",
-                "stars": 456,
+                "stars": 457,
                 "topics": [
                   "gather-simulation-data",
                   "simulated-data",
@@ -1267,7 +1267,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-08T17:15:16.648Z",
+    "last_updated": "2026-11-09T21:38:36.598Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome SNMP libraries, tools, and other resources.",
