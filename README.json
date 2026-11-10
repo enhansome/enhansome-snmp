@@ -21,7 +21,7 @@
                 "open_issues": 10,
                 "owner": "lextudio",
                 "repo": "sharpsnmplib",
-                "stars": 406,
+                "stars": 405,
                 "topics": [
                   "android",
                   "c-sharp",
@@ -94,7 +94,7 @@
                 "open_issues": 34,
                 "owner": "gosnmp",
                 "repo": "gosnmp",
-                "stars": 1259,
+                "stars": 1261,
                 "topics": [
                   "go",
                   "golang",
@@ -210,7 +210,7 @@
                 "language": "JavaScript",
                 "license": null,
                 "last_commit": "2026-10-26T09:48:20Z",
-                "open_issues": 8,
+                "open_issues": 9,
                 "owner": "markabrahams",
                 "repo": "node-net-snmp",
                 "stars": 234,
@@ -459,7 +459,7 @@
                     "open_issues": 215,
                     "owner": "etingof",
                     "repo": "pysnmp",
-                    "stars": 616,
+                    "stars": 617,
                     "topics": [
                       "mib",
                       "pysnmp",
@@ -824,8 +824,8 @@
                 "id": 31185891,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-09T19:55:24Z",
-                "open_issues": 108,
+                "last_commit": "2026-11-10T13:35:51Z",
+                "open_issues": 107,
                 "owner": "prometheus",
                 "repo": "snmp_exporter",
                 "stars": 2196,
@@ -856,7 +856,7 @@
                 "open_issues": 7,
                 "owner": "trailofbits",
                 "repo": "onesixtyone",
-                "stars": 744,
+                "stars": 745,
                 "topics": [
                   "network-security",
                   "snmp"
@@ -1112,7 +1112,7 @@
                 "open_issues": 44,
                 "owner": "toni-moreno",
                 "repo": "snmpcollector",
-                "stars": 304,
+                "stars": 305,
                 "topics": [
                   "cacti",
                   "collector",
@@ -1267,7 +1267,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-09T21:38:36.598Z",
+    "last_updated": "2026-11-10T18:52:50.844Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome SNMP libraries, tools, and other resources.",
@@ -1279,7 +1279,7 @@
       "open_issues": 6,
       "owner": "eozer",
       "repo": "awesome-snmp",
-      "stars": 196,
+      "stars": 197,
       "topics": [
         "awesome",
         "awesome-list",
