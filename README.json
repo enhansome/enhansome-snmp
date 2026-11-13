@@ -91,7 +91,7 @@
                 "language": "Go",
                 "license": "NOASSERTION",
                 "last_commit": "2026-11-03T14:23:56Z",
-                "open_issues": 34,
+                "open_issues": 36,
                 "owner": "gosnmp",
                 "repo": "gosnmp",
                 "stars": 1262,
@@ -363,11 +363,11 @@
                 "id": 43509302,
                 "language": "Python",
                 "license": "GPL-2.0",
-                "last_commit": "2026-11-12T09:19:40Z",
-                "open_issues": 130,
+                "last_commit": "2026-11-13T08:34:50Z",
+                "open_issues": 131,
                 "owner": "secdev",
                 "repo": "scapy",
-                "stars": 12687,
+                "stars": 12690,
                 "topics": [
                   "network",
                   "network-analysis",
@@ -500,7 +500,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-11-05T05:48:55Z",
-                "open_issues": 70,
+                "open_issues": 72,
                 "owner": "exhuma",
                 "repo": "puresnmp",
                 "stars": 88,
@@ -824,11 +824,11 @@
                 "id": 31185891,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-10T20:49:45Z",
-                "open_issues": 109,
+                "last_commit": "2026-11-13T10:08:59Z",
+                "open_issues": 108,
                 "owner": "prometheus",
                 "repo": "snmp_exporter",
-                "stars": 2199,
+                "stars": 2200,
                 "topics": [
                   "metrics",
                   "mib",
@@ -856,7 +856,7 @@
                 "open_issues": 7,
                 "owner": "trailofbits",
                 "repo": "onesixtyone",
-                "stars": 747,
+                "stars": 748,
                 "topics": [
                   "network-security",
                   "snmp"
@@ -880,7 +880,7 @@
                 "open_issues": 80,
                 "owner": "etingof",
                 "repo": "snmpsim",
-                "stars": 457,
+                "stars": 458,
                 "topics": [
                   "gather-simulation-data",
                   "simulated-data",
@@ -1267,7 +1267,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-12T19:09:58.852Z",
+    "last_updated": "2026-11-13T18:47:34.668Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome SNMP libraries, tools, and other resources.",
