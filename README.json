@@ -21,7 +21,7 @@
                 "open_issues": 10,
                 "owner": "lextudio",
                 "repo": "sharpsnmplib",
-                "stars": 405,
+                "stars": 406,
                 "topics": [
                   "android",
                   "c-sharp",
@@ -91,7 +91,7 @@
                 "language": "Go",
                 "license": "NOASSERTION",
                 "last_commit": "2026-11-03T14:23:56Z",
-                "open_issues": 37,
+                "open_issues": 39,
                 "owner": "gosnmp",
                 "repo": "gosnmp",
                 "stars": 1263,
@@ -364,10 +364,10 @@
                 "language": "Python",
                 "license": "GPL-2.0",
                 "last_commit": "2026-11-13T08:34:50Z",
-                "open_issues": 133,
+                "open_issues": 135,
                 "owner": "secdev",
                 "repo": "scapy",
-                "stars": 12691,
+                "stars": 12693,
                 "topics": [
                   "network",
                   "network-analysis",
@@ -459,7 +459,7 @@
                     "open_issues": 215,
                     "owner": "etingof",
                     "repo": "pysnmp",
-                    "stars": 617,
+                    "stars": 618,
                     "topics": [
                       "mib",
                       "pysnmp",
@@ -479,7 +479,7 @@
                 "language": "Python",
                 "license": "BSD-2-Clause",
                 "last_commit": "2026-11-07T13:05:34Z",
-                "open_issues": 26,
+                "open_issues": 25,
                 "owner": "lextudio",
                 "repo": "pysnmp",
                 "stars": 160,
@@ -825,7 +825,7 @@
                 "language": "Go",
                 "license": "Apache-2.0",
                 "last_commit": "2026-11-13T10:08:59Z",
-                "open_issues": 108,
+                "open_issues": 109,
                 "owner": "prometheus",
                 "repo": "snmp_exporter",
                 "stars": 2200,
@@ -856,7 +856,7 @@
                 "open_issues": 7,
                 "owner": "trailofbits",
                 "repo": "onesixtyone",
-                "stars": 748,
+                "stars": 750,
                 "topics": [
                   "network-security",
                   "snmp"
@@ -1267,7 +1267,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T17:19:26.019Z",
+    "last_updated": "2026-11-15T17:59:55.282Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome SNMP libraries, tools, and other resources.",
