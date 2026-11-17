@@ -91,7 +91,7 @@
                 "language": "Go",
                 "license": "NOASSERTION",
                 "last_commit": "2026-11-03T14:23:56Z",
-                "open_issues": 39,
+                "open_issues": 40,
                 "owner": "gosnmp",
                 "repo": "gosnmp",
                 "stars": 1263,
@@ -179,7 +179,7 @@
                 "open_issues": 13,
                 "owner": "cederberg",
                 "repo": "mibble",
-                "stars": 130,
+                "stars": 129,
                 "topics": [
                   "java",
                   "mib-browser",
@@ -364,10 +364,10 @@
                 "language": "Python",
                 "license": "GPL-2.0",
                 "last_commit": "2026-11-13T08:34:50Z",
-                "open_issues": 136,
+                "open_issues": 138,
                 "owner": "secdev",
                 "repo": "scapy",
-                "stars": 12696,
+                "stars": 12699,
                 "topics": [
                   "network",
                   "network-analysis",
@@ -824,8 +824,8 @@
                 "id": 31185891,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-16T18:37:43Z",
-                "open_issues": 108,
+                "last_commit": "2026-11-17T09:39:06Z",
+                "open_issues": 109,
                 "owner": "prometheus",
                 "repo": "snmp_exporter",
                 "stars": 2200,
@@ -856,7 +856,7 @@
                 "open_issues": 7,
                 "owner": "trailofbits",
                 "repo": "onesixtyone",
-                "stars": 750,
+                "stars": 751,
                 "topics": [
                   "network-security",
                   "snmp"
@@ -880,7 +880,7 @@
                 "open_issues": 80,
                 "owner": "etingof",
                 "repo": "snmpsim",
-                "stars": 458,
+                "stars": 459,
                 "topics": [
                   "gather-simulation-data",
                   "simulated-data",
@@ -1267,7 +1267,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-16T21:15:38.352Z",
+    "last_updated": "2026-11-17T20:03:19.502Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome SNMP libraries, tools, and other resources.",
