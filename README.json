@@ -209,7 +209,7 @@
                 "id": 42960114,
                 "language": "JavaScript",
                 "license": null,
-                "last_commit": "2026-10-26T09:48:20Z",
+                "last_commit": "2026-11-18T15:56:11Z",
                 "open_issues": 9,
                 "owner": "markabrahams",
                 "repo": "node-net-snmp",
@@ -363,11 +363,11 @@
                 "id": 43509302,
                 "language": "Python",
                 "license": "GPL-2.0",
-                "last_commit": "2026-11-13T08:34:50Z",
-                "open_issues": 138,
+                "last_commit": "2026-11-17T23:46:24Z",
+                "open_issues": 139,
                 "owner": "secdev",
                 "repo": "scapy",
-                "stars": 12699,
+                "stars": 12702,
                 "topics": [
                   "network",
                   "network-analysis",
@@ -661,7 +661,7 @@
                 "language": "Python",
                 "license": "BSD-2-Clause",
                 "last_commit": "2026-04-26T21:02:25Z",
-                "open_issues": 3,
+                "open_issues": 4,
                 "owner": "lextudio",
                 "repo": "pysmi",
                 "stars": 11,
@@ -828,7 +828,7 @@
                 "open_issues": 109,
                 "owner": "prometheus",
                 "repo": "snmp_exporter",
-                "stars": 2200,
+                "stars": 2201,
                 "topics": [
                   "metrics",
                   "mib",
@@ -856,7 +856,7 @@
                 "open_issues": 7,
                 "owner": "trailofbits",
                 "repo": "onesixtyone",
-                "stars": 751,
+                "stars": 753,
                 "topics": [
                   "network-security",
                   "snmp"
@@ -1267,7 +1267,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-17T20:03:19.502Z",
+    "last_updated": "2026-11-18T19:37:58.210Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome SNMP libraries, tools, and other resources.",
