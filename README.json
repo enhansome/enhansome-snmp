@@ -367,7 +367,7 @@
                 "open_issues": 141,
                 "owner": "secdev",
                 "repo": "scapy",
-                "stars": 12703,
+                "stars": 12705,
                 "topics": [
                   "network",
                   "network-analysis",
@@ -459,7 +459,7 @@
                     "open_issues": 215,
                     "owner": "etingof",
                     "repo": "pysnmp",
-                    "stars": 618,
+                    "stars": 617,
                     "topics": [
                       "mib",
                       "pysnmp",
@@ -479,7 +479,7 @@
                 "language": "Python",
                 "license": "BSD-2-Clause",
                 "last_commit": "2026-11-16T01:17:13Z",
-                "open_issues": 23,
+                "open_issues": 24,
                 "owner": "lextudio",
                 "repo": "pysnmp",
                 "stars": 160,
@@ -824,8 +824,8 @@
                 "id": 31185891,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-17T09:39:06Z",
-                "open_issues": 109,
+                "last_commit": "2026-11-20T14:05:04Z",
+                "open_issues": 108,
                 "owner": "prometheus",
                 "repo": "snmp_exporter",
                 "stars": 2201,
@@ -933,7 +933,7 @@
                 "open_issues": 0,
                 "owner": "hatlord",
                 "repo": "snmpwn",
-                "stars": 271,
+                "stars": 272,
                 "topics": [
                   "attack",
                   "brute-force",
@@ -959,7 +959,7 @@
                 "open_issues": 0,
                 "owner": "hatlord",
                 "repo": "snmpwn",
-                "stars": 271,
+                "stars": 272,
                 "topics": [
                   "attack",
                   "brute-force",
@@ -1112,7 +1112,7 @@
                 "open_issues": 44,
                 "owner": "toni-moreno",
                 "repo": "snmpcollector",
-                "stars": 305,
+                "stars": 304,
                 "topics": [
                   "cacti",
                   "collector",
@@ -1267,7 +1267,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T19:38:10.519Z",
+    "last_updated": "2026-11-20T19:15:53.391Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome SNMP libraries, tools, and other resources.",
