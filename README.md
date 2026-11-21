@@ -47,7 +47,7 @@ This is a curated list of awesome SNMP libraries, tools, and other resources. Co
 
 ### C\#
 
-* [C# SNMP Library](https://github.com/lextudio/sharpsnmplib) ⭐ 405 | 🐛 10 | 🌐 C# | 📅 2026-11-19 - MIT licensed SNMP library for .NET with extensive SNMP standard support, latest .NET platform targets, as well as rich manager/agent samples.
+* [C# SNMP Library](https://github.com/lextudio/sharpsnmplib) ⭐ 405 | 🐛 10 | 🌐 C# | 📅 2026-11-21 - MIT licensed SNMP library for .NET with extensive SNMP standard support, latest .NET platform targets, as well as rich manager/agent samples.
 * [SnmpSharpNet](https://github.com/rqx110/SnmpSharpNet) ⭐ 85 | 🐛 9 | 🌐 C# | 📅 2025-01-25 - Simple Network Management Protocol (SNMP) .Net library written in C# (csharp). Implements protocol version 1, 2 and 3.
 * [SNMP Pro](https://pro.sharpsnmp.com) - Commercial extension that adds enterprise MIB support.
 
@@ -88,7 +88,7 @@ This is a curated list of awesome SNMP libraries, tools, and other resources. Co
 
 ### Python
 
-* [Scapy](https://github.com/secdev/scapy) ⭐ 12,705 | 🐛 141 | 🌐 Python | 📅 2026-11-19 - Packet manipulation program & library. Scapy has a [module](https://github.com/secdev/scapy/blob/master/scapy/layers/snmp.py) ⭐ 12,705 | 🐛 141 | 🌐 Python | 📅 2026-11-19 to build/dissect SNMP packets. ![GitHub last commit](https://img.shields.io/github/last-commit/secdev/scapy)
+* [Scapy](https://github.com/secdev/scapy) ⭐ 12,707 | 🐛 140 | 🌐 Python | 📅 2026-11-21 - Packet manipulation program & library. Scapy has a [module](https://github.com/secdev/scapy/blob/master/scapy/layers/snmp.py) ⭐ 12,707 | 🐛 140 | 🌐 Python | 📅 2026-11-21 to build/dissect SNMP packets. ![GitHub last commit](https://img.shields.io/github/last-commit/secdev/scapy)
 * [easysnmp](https://github.com/easysnmp/easysnmp) ⚠️ Archived - A fork of [net-snmp Python bindings](http://www.net-snmp.org/wiki/index.php/Python_Bindings) that attempts to bring a more Pythonic interface to the library. ![GitHub last commit](https://img.shields.io/github/last-commit/easysnmp/easysnmp)
 * [snimpy](https://github.com/vincentbernat/snimpy) ⭐ 194 | 🐛 20 | 🌐 Python | 📅 2026-10-10 - Snimpy is a Python-based tool providing a simple interface to build SNMP query. ![GitHub last commit](https://img.shields.io/github/last-commit/vincentbernat/snimpy)
 * [pysnmp](https://github.com/lextudio/pysnmp) ⭐ 160 | 🐛 24 | 🌐 Python | 📅 2026-11-16 - This is a pure-Python, open source and free implementation of v1/v2c/v3 SNMP engine distributed under 2-clause BSD license.
@@ -121,7 +121,7 @@ This is a curated list of awesome SNMP libraries, tools, and other resources. Co
 
 ### CLIs
 
-* [prometheus/snmp\_exporter](https://github.com/prometheus/snmp_exporter) ⭐ 2,201 | 🐛 108 | 🌐 Go | 📅 2026-11-20 - This exporter is the recommended way to expose SNMP data in a format which Prometheus can ingest.
+* [prometheus/snmp\_exporter](https://github.com/prometheus/snmp_exporter) ⭐ 2,202 | 🐛 108 | 🌐 Go | 📅 2026-11-20 - This exporter is the recommended way to expose SNMP data in a format which Prometheus can ingest.
 * [trailofbits/onesixtyone](https://github.com/trailofbits/onesixtyone) ⭐ 753 | 🐛 7 | 🌐 C | 📅 2025-08-30 - Fast SNMP Scanner.
 * [snmpsim](https://github.com/etingof/snmpsim) ⭐ 459 | 🐛 80 | 🌐 Python | 📅 2023-07-24 - This is a pure-Python, open source and free implementation of SNMP agents simulator distributed under 2-clause BSD license.
 * [SECFORCE/SNMP-Brute](https://github.com/SECFORCE/SNMP-Brute) ⭐ 333 | 🐛 0 | 🌐 Python | 📅 2021-09-13 - Fast SNMP brute force, enumeration, CISCO config downloader and password cracking script.
@@ -131,7 +131,7 @@ This is a curated list of awesome SNMP libraries, tools, and other resources. Co
 * [trapperkeeper](https://github.com/dropbox/trapperkeeper) ⭐ 80 | 🐛 11 | 🌐 Python | 📅 2018-02-08 - A suite of tools for ingesting and displaying SNMP traps. This is designed as a replacement for snmptrapd and to supplement existing stateful monitoring solutions.
 * [snmpfwd](https://github.com/etingof/snmpfwd) ⭐ 72 | 🐛 27 | 🌐 Python | 📅 2019-12-15 - The SNMP Proxy Forwarder tool works as an application-level proxy with a built-in SNMP message router. Typical use case for an SNMP proxy is to work as an application-level firewall or a protocol translator that enables SNMPv3 access to a SNMPv1/SNMPv2c entity or vice versa.
 * [snmpclitools](https://github.com/etingof/snmpclitools) ⭐ 61 | 🐛 9 | 🌐 Python | 📅 2021-11-17 - This is a collection of command-line SNMP tools written in pure-Python. The tools mimic their famous Net-SNMP counterparts. It includes snmpget.py, snmpset.py, snmpwalk.py, snmpbulkwalk.py, snmptrap.py, and snmptranslate.py, see [here](https://snmplabs.thola.io/snmpclitools/) for more details.
-* [OIDrage](https://github.com/patrickscottbest/OIDrage) ⭐ 5 | 🐛 0 | 🌐 Python | 📅 2025-12-29 - A lightweight standalone SNMPd mimic server based on any snmpwalk output. Easily scales to mock thousands of servers.
+* [OIDrage](https://github.com/patrickscottbest/OIDrage) ⭐ 5 | 🐛 0 | 🌐 Python | 📅 2026-11-20 - A lightweight standalone SNMPd mimic server based on any snmpwalk output. Easily scales to mock thousands of servers.
 * [net-snmp tools](http://www.net-snmp.org/) - The applications listed here are part of net-snmp.
   * [encode\_keychange](http://www.net-snmp.org/docs/man/encode_keychange.html) - Produces the KeyChange string for SNMPv3.
   * [snmptranslate](http://www.net-snmp.org/docs/man/snmptranslate.html) - Translates MIB OID names between numeric and textual forms.
@@ -274,4 +274,4 @@ Please take a quick look at the [contribution guidelines](contributing.md) first
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-21._
