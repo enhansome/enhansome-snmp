@@ -367,7 +367,7 @@
                 "open_issues": 140,
                 "owner": "secdev",
                 "repo": "scapy",
-                "stars": 12707,
+                "stars": 12710,
                 "topics": [
                   "network",
                   "network-analysis",
@@ -685,7 +685,7 @@
                 "open_issues": 16,
                 "owner": "kontron",
                 "repo": "robotframework-snmplibrary",
-                "stars": 9,
+                "stars": 10,
                 "topics": [
                   "python",
                   "robotframework",
@@ -828,7 +828,7 @@
                 "open_issues": 108,
                 "owner": "prometheus",
                 "repo": "snmp_exporter",
-                "stars": 2202,
+                "stars": 2203,
                 "topics": [
                   "metrics",
                   "mib",
@@ -1267,7 +1267,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T18:14:48.230Z",
+    "last_updated": "2026-11-22T18:40:08.423Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome SNMP libraries, tools, and other resources.",
