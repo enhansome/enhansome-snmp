@@ -90,8 +90,8 @@
                 "id": 5567243,
                 "language": "Go",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-03T14:23:56Z",
-                "open_issues": 41,
+                "last_commit": "2026-11-23T08:26:37Z",
+                "open_issues": 40,
                 "owner": "gosnmp",
                 "repo": "gosnmp",
                 "stars": 1262,
@@ -332,7 +332,7 @@
                 "open_issues": 9,
                 "owner": "FreeDSx",
                 "repo": "SNMP",
-                "stars": 67,
+                "stars": 68,
                 "topics": [
                   "php",
                   "snmp",
@@ -363,11 +363,11 @@
                 "id": 43509302,
                 "language": "Python",
                 "license": "GPL-2.0",
-                "last_commit": "2026-11-21T14:46:04Z",
-                "open_issues": 140,
+                "last_commit": "2026-11-23T16:50:48Z",
+                "open_issues": 142,
                 "owner": "secdev",
                 "repo": "scapy",
-                "stars": 12710,
+                "stars": 12712,
                 "topics": [
                   "network",
                   "network-analysis",
@@ -828,7 +828,7 @@
                 "open_issues": 108,
                 "owner": "prometheus",
                 "repo": "snmp_exporter",
-                "stars": 2203,
+                "stars": 2204,
                 "topics": [
                   "metrics",
                   "mib",
@@ -1166,7 +1166,7 @@
                 "id": 669644544,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-16T19:12:08Z",
+                "last_commit": "2026-11-23T19:10:23Z",
                 "open_issues": 0,
                 "owner": "twsnmp",
                 "repo": "twsnmpfk",
@@ -1267,7 +1267,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-22T18:40:08.423Z",
+    "last_updated": "2026-11-23T22:55:50.951Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome SNMP libraries, tools, and other resources.",
