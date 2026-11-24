@@ -88,10 +88,10 @@ This is a curated list of awesome SNMP libraries, tools, and other resources. Co
 
 ### Python
 
-* [Scapy](https://github.com/secdev/scapy) ⭐ 12,712 | 🐛 142 | 🌐 Python | 📅 2026-11-23 - Packet manipulation program & library. Scapy has a [module](https://github.com/secdev/scapy/blob/master/scapy/layers/snmp.py) ⭐ 12,712 | 🐛 142 | 🌐 Python | 📅 2026-11-23 to build/dissect SNMP packets. ![GitHub last commit](https://img.shields.io/github/last-commit/secdev/scapy)
+* [Scapy](https://github.com/secdev/scapy) ⭐ 12,715 | 🐛 142 | 🌐 Python | 📅 2026-11-23 - Packet manipulation program & library. Scapy has a [module](https://github.com/secdev/scapy/blob/master/scapy/layers/snmp.py) ⭐ 12,715 | 🐛 142 | 🌐 Python | 📅 2026-11-23 to build/dissect SNMP packets. ![GitHub last commit](https://img.shields.io/github/last-commit/secdev/scapy)
 * [easysnmp](https://github.com/easysnmp/easysnmp) ⚠️ Archived - A fork of [net-snmp Python bindings](http://www.net-snmp.org/wiki/index.php/Python_Bindings) that attempts to bring a more Pythonic interface to the library. ![GitHub last commit](https://img.shields.io/github/last-commit/easysnmp/easysnmp)
 * [snimpy](https://github.com/vincentbernat/snimpy) ⭐ 194 | 🐛 20 | 🌐 Python | 📅 2026-10-10 - Snimpy is a Python-based tool providing a simple interface to build SNMP query. ![GitHub last commit](https://img.shields.io/github/last-commit/vincentbernat/snimpy)
-* [pysnmp](https://github.com/lextudio/pysnmp) ⭐ 160 | 🐛 24 | 🌐 Python | 📅 2026-11-16 - This is a pure-Python, open source and free implementation of v1/v2c/v3 SNMP engine distributed under 2-clause BSD license.
+* [pysnmp](https://github.com/lextudio/pysnmp) ⭐ 160 | 🐛 22 | 🌐 Python | 📅 2026-11-24 - This is a pure-Python, open source and free implementation of v1/v2c/v3 SNMP engine distributed under 2-clause BSD license.
   * This project is derived from [the original repo](https://github.com/etingof/pysnmp) ⭐ 617 | 🐛 215 | 🌐 Python | 📅 2024-07-31.
 * [puresnmp](https://github.com/exhuma/puresnmp) ⭐ 88 | 🐛 72 | 🌐 Python | 📅 2026-11-05 - Pure Python3 SNMPv2 library without any dependencies. ![GitHub last commit](https://img.shields.io/github/last-commit/exhuma/puresnmp)
 * [python-netsnmpagent](https://github.com/pief/python-netsnmpagent) ⭐ 68 | 🐛 7 | 🌐 Python | 📅 2024-10-28 - This package allows to write net-snmp subagents in Python. ![GitHub last commit](https://img.shields.io/github/last-commit/pief/python-netsnmpagent)
@@ -109,7 +109,7 @@ This is a curated list of awesome SNMP libraries, tools, and other resources. Co
 
 ### Rust
 
-* [snmp-parser](https://github.com/rusticata/snmp-parser) ⭐ 45 | 🐛 4 | 🌐 Rust | 📅 2026-01-19 - SNMP parser written in rust with nom parser combinator framework.
+* [snmp-parser](https://github.com/rusticata/snmp-parser) ⭐ 45 | 🐛 5 | 🌐 Rust | 📅 2026-01-19 - SNMP parser written in rust with nom parser combinator framework.
 * [davedufresne/modern\_snmp](https://github.com/davedufresne/modern_snmp) ⭐ 33 | 🐛 5 | 🌐 Rust | 📅 2024-08-23 - Modern SNMP is a pure-Rust library for SNMPv3. This repository includes snmp\_mp (SNMPv3 Message Processing) and snmp\_usm (Implementation of the User-based Security Model (USM) for SNMPv3) crates.
 * [Svedrin/sunt](https://github.com/Svedrin/sunt) ⭐ 29 | 🐛 2 | 🌐 Rust | 📅 2021-03-01 - This repository implements an SNMP Agent written in Rust.
 
@@ -121,9 +121,9 @@ This is a curated list of awesome SNMP libraries, tools, and other resources. Co
 
 ### CLIs
 
-* [prometheus/snmp\_exporter](https://github.com/prometheus/snmp_exporter) ⭐ 2,204 | 🐛 108 | 🌐 Go | 📅 2026-11-20 - This exporter is the recommended way to expose SNMP data in a format which Prometheus can ingest.
+* [prometheus/snmp\_exporter](https://github.com/prometheus/snmp_exporter) ⭐ 2,204 | 🐛 111 | 🌐 Go | 📅 2026-11-20 - This exporter is the recommended way to expose SNMP data in a format which Prometheus can ingest.
 * [trailofbits/onesixtyone](https://github.com/trailofbits/onesixtyone) ⭐ 753 | 🐛 7 | 🌐 C | 📅 2025-08-30 - Fast SNMP Scanner.
-* [snmpsim](https://github.com/etingof/snmpsim) ⭐ 459 | 🐛 80 | 🌐 Python | 📅 2023-07-24 - This is a pure-Python, open source and free implementation of SNMP agents simulator distributed under 2-clause BSD license.
+* [snmpsim](https://github.com/etingof/snmpsim) ⭐ 460 | 🐛 80 | 🌐 Python | 📅 2023-07-24 - This is a pure-Python, open source and free implementation of SNMP agents simulator distributed under 2-clause BSD license.
 * [SECFORCE/SNMP-Brute](https://github.com/SECFORCE/SNMP-Brute) ⭐ 333 | 🐛 0 | 🌐 Python | 📅 2021-09-13 - Fast SNMP brute force, enumeration, CISCO config downloader and password cracking script.
 * [snmpwn](https://github.com/hatlord/snmpwn) ⭐ 272 | 🐛 0 | 🌐 Ruby | 📅 2020-08-23 - SNMPwn is an SNMPv3 user enumerator and attack tool.
 * [hatlord/snmpwn](https://github.com/hatlord/snmpwn) ⭐ 272 | 🐛 0 | 🌐 Ruby | 📅 2020-08-23 - An SNMPv3 User Enumerator and Attack tool.
@@ -274,4 +274,4 @@ Please take a quick look at the [contribution guidelines](contributing.md) first
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-24._

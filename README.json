@@ -367,7 +367,7 @@
                 "open_issues": 142,
                 "owner": "secdev",
                 "repo": "scapy",
-                "stars": 12712,
+                "stars": 12715,
                 "topics": [
                   "network",
                   "network-analysis",
@@ -478,8 +478,8 @@
                 "id": 562745461,
                 "language": "Python",
                 "license": "BSD-2-Clause",
-                "last_commit": "2026-11-16T01:17:13Z",
-                "open_issues": 24,
+                "last_commit": "2026-11-24T09:59:42Z",
+                "open_issues": 22,
                 "owner": "lextudio",
                 "repo": "pysnmp",
                 "stars": 160,
@@ -749,7 +749,7 @@
                 "language": "Rust",
                 "license": "NOASSERTION",
                 "last_commit": "2026-01-19T20:31:30Z",
-                "open_issues": 4,
+                "open_issues": 5,
                 "owner": "rusticata",
                 "repo": "snmp-parser",
                 "stars": 45,
@@ -825,7 +825,7 @@
                 "language": "Go",
                 "license": "Apache-2.0",
                 "last_commit": "2026-11-20T23:38:47Z",
-                "open_issues": 108,
+                "open_issues": 111,
                 "owner": "prometheus",
                 "repo": "snmp_exporter",
                 "stars": 2204,
@@ -880,7 +880,7 @@
                 "open_issues": 80,
                 "owner": "etingof",
                 "repo": "snmpsim",
-                "stars": 459,
+                "stars": 460,
                 "topics": [
                   "gather-simulation-data",
                   "simulated-data",
@@ -1267,7 +1267,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-23T22:55:50.951Z",
+    "last_updated": "2026-11-24T21:33:10.880Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome SNMP libraries, tools, and other resources.",
