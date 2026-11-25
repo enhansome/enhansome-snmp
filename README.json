@@ -21,7 +21,7 @@
                 "open_issues": 10,
                 "owner": "lextudio",
                 "repo": "sharpsnmplib",
-                "stars": 405,
+                "stars": 406,
                 "topics": [
                   "android",
                   "c-sharp",
@@ -363,11 +363,11 @@
                 "id": 43509302,
                 "language": "Python",
                 "license": "GPL-2.0",
-                "last_commit": "2026-11-23T16:50:48Z",
-                "open_issues": 142,
+                "last_commit": "2026-11-25T12:30:37Z",
+                "open_issues": 141,
                 "owner": "secdev",
                 "repo": "scapy",
-                "stars": 12715,
+                "stars": 12717,
                 "topics": [
                   "network",
                   "network-analysis",
@@ -503,7 +503,7 @@
                 "open_issues": 72,
                 "owner": "exhuma",
                 "repo": "puresnmp",
-                "stars": 88,
+                "stars": 89,
                 "topics": [
                   "python",
                   "python-3",
@@ -824,11 +824,11 @@
                 "id": 31185891,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-20T23:38:47Z",
-                "open_issues": 111,
+                "last_commit": "2026-11-24T22:46:50Z",
+                "open_issues": 109,
                 "owner": "prometheus",
                 "repo": "snmp_exporter",
-                "stars": 2204,
+                "stars": 2205,
                 "topics": [
                   "metrics",
                   "mib",
@@ -1166,7 +1166,7 @@
                 "id": 669644544,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-23T19:10:23Z",
+                "last_commit": "2026-11-25T00:48:54Z",
                 "open_issues": 0,
                 "owner": "twsnmp",
                 "repo": "twsnmpfk",
@@ -1267,7 +1267,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-24T21:33:10.880Z",
+    "last_updated": "2026-11-25T20:40:57.592Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome SNMP libraries, tools, and other resources.",
