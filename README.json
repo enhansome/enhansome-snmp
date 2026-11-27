@@ -363,8 +363,8 @@
                 "id": 43509302,
                 "language": "Python",
                 "license": "GPL-2.0",
-                "last_commit": "2026-11-26T18:16:41Z",
-                "open_issues": 143,
+                "last_commit": "2026-11-27T05:31:19Z",
+                "open_issues": 140,
                 "owner": "secdev",
                 "repo": "scapy",
                 "stars": 12719,
@@ -459,7 +459,7 @@
                     "open_issues": 215,
                     "owner": "etingof",
                     "repo": "pysnmp",
-                    "stars": 617,
+                    "stars": 618,
                     "topics": [
                       "mib",
                       "pysnmp",
@@ -639,7 +639,7 @@
                     "open_issues": 23,
                     "owner": "etingof",
                     "repo": "pysmi",
-                    "stars": 145,
+                    "stars": 146,
                     "topics": [
                       "json",
                       "mib",
@@ -1058,7 +1058,7 @@
                 "open_issues": 9,
                 "owner": "etingof",
                 "repo": "snmpclitools",
-                "stars": 61,
+                "stars": 62,
                 "topics": [
                   "net-snmp",
                   "snmp",
@@ -1166,7 +1166,7 @@
                 "id": 669644544,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-25T00:48:54Z",
+                "last_commit": "2026-11-27T00:47:36Z",
                 "open_issues": 0,
                 "owner": "twsnmp",
                 "repo": "twsnmpfk",
@@ -1267,7 +1267,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T20:33:37.676Z",
+    "last_updated": "2026-11-27T20:20:02.688Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome SNMP libraries, tools, and other resources.",
